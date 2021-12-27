@@ -1,6 +1,6 @@
 ---
 title: Ammerschwihr
 url: /ammerschwihr/
-latitude: 48.1261389
-longitude: 7.2825373
+latitude: 48.126
+longitude: 7.285
 ---

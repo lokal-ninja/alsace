@@ -1,6 +1,6 @@
 ---
 title: Herrlisheim
 url: /herrlisheim/
-latitude: 48.728885500000004
-longitude: 7.9061317
+latitude: 48.73
+longitude: 7.907
 ---

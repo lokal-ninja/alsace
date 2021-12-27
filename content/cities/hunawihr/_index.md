@@ -1,6 +1,6 @@
 ---
 title: Hunawihr
 url: /hunawihr/
-latitude: 48.181417700000004
-longitude: 7.3135785
+latitude: 48.18
+longitude: 7.305
 ---

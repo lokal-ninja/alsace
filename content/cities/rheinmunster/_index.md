@@ -1,6 +1,6 @@
 ---
 title: Rheinmünster
 url: /rheinmunster/
-latitude: 
-longitude: 
+latitude: 48.779
+longitude: 8.054
 ---

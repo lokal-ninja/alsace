@@ -1,6 +1,6 @@
 ---
 title: Reichshoffen
 url: /reichshoffen/
-latitude: 
-longitude: 
+latitude: 48.934
+longitude: 7.659
 ---

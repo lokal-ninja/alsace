@@ -1,6 +1,6 @@
 ---
 title: Rittershoffen
 url: /rittershoffen/
-latitude: 48.9027356
-longitude: 7.953219000000001
+latitude: 48.902
+longitude: 7.956
 ---

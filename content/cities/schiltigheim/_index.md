@@ -1,6 +1,6 @@
 ---
 title: Schiltigheim
 url: /schiltigheim/
-latitude: 48.6047148
-longitude: 7.7484488
+latitude: 48.61
+longitude: 7.745
 ---

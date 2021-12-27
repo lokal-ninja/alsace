@@ -1,6 +1,6 @@
 ---
 title: Turckheim
 url: /turckheim/
-latitude: 48.087821700000006
-longitude: 7.278011
+latitude: 48.087
+longitude: 7.301
 ---

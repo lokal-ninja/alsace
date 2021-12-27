@@ -1,6 +1,6 @@
 ---
 title: Mothern
 url: /mothern/
-latitude: 48.931255
-longitude: 8.1531464
+latitude: 48.933
+longitude: 8.151
 ---

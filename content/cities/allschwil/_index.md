@@ -1,6 +1,6 @@
 ---
 title: Allschwil
 url: /allschwil/
-latitude: 
-longitude: 
+latitude: 47.545
+longitude: 7.51
 ---

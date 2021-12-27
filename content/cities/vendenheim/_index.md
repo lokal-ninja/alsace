@@ -1,6 +1,6 @@
 ---
 title: Vendenheim
 url: /vendenheim/
-latitude: 48.6656016
-longitude: 7.710960900000001
+latitude: 48.66
+longitude: 7.726
 ---

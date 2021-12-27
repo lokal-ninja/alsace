@@ -1,6 +1,6 @@
 ---
 title: Baldenheim
 url: /baldenheim/
-latitude: 48.238220000000005
-longitude: 7.5380928
+latitude: 48.238
+longitude: 7.544
 ---

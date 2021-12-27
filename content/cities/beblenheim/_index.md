@@ -1,6 +1,6 @@
 ---
 title: Beblenheim
 url: /beblenheim/
-latitude: 48.158639900000004
-longitude: 7.3257472
+latitude: 48.159
+longitude: 7.327
 ---

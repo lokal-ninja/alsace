@@ -1,6 +1,6 @@
 ---
 title: Wœrth
 url: /woerth/
-latitude: 48.9399476
-longitude: 7.743253900000001
+latitude: 48.933
+longitude: 7.749
 ---

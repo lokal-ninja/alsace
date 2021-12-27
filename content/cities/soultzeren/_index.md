@@ -1,6 +1,6 @@
 ---
 title: Soultzeren
 url: /soultzeren/
-latitude: 48.062890700000004
-longitude: 7.103384800000001
+latitude: 48.068
+longitude: 7.103
 ---

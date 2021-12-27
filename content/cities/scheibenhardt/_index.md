@@ -1,6 +1,6 @@
 ---
 title: Scheibenhardt
 url: /scheibenhardt/
-latitude: 
-longitude: 
+latitude: 48.98
+longitude: 8.137
 ---

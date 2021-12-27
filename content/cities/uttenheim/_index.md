@@ -1,6 +1,6 @@
 ---
 title: Uttenheim
 url: /uttenheim/
-latitude: 48.4119636
-longitude: 7.5980717
+latitude: 48.411
+longitude: 7.595
 ---

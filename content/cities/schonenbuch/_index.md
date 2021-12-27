@@ -1,6 +1,6 @@
 ---
 title: Schönenbuch
 url: /schonenbuch/
-latitude: 
-longitude: 
+latitude: 47.532
+longitude: 7.503
 ---

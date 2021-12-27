@@ -1,6 +1,6 @@
 ---
 title: Westhalten
 url: /westhalten/
-latitude: 47.957757
-longitude: 7.2594611
+latitude: 47.953
+longitude: 7.263
 ---

@@ -1,6 +1,6 @@
 ---
 title: Aspach-le-Haut
 url: /aspach-le-haut/
-latitude: 47.776648300000005
-longitude: 7.1324890000000005
+latitude: 47.776
+longitude: 7.131
 ---

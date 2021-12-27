@@ -1,6 +1,6 @@
 ---
 title: Huningue
 url: /huningue/
-latitude: 47.5941514
-longitude: 7.5794613
+latitude: 47.588
+longitude: 7.583
 ---

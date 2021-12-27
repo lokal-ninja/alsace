@@ -1,6 +1,6 @@
 ---
 title: Hartheim
 url: /hartheim/
-latitude: 
-longitude: 
+latitude: 47.909
+longitude: 7.593
 ---

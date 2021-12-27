@@ -1,6 +1,6 @@
 ---
 title: Bœrsch
 url: /boersch/
-latitude: 48.4767699
-longitude: 7.4410859
+latitude: 48.477
+longitude: 7.44
 ---

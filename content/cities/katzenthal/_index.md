@@ -1,6 +1,6 @@
 ---
 title: Katzenthal
 url: /katzenthal/
-latitude: 48.108074
-longitude: 7.2847476
+latitude: 48.108
+longitude: 7.286
 ---

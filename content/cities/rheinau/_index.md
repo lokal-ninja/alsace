@@ -1,6 +1,6 @@
 ---
 title: Rheinau
 url: /rheinau/
-latitude: 
-longitude: 
+latitude: 48.674
+longitude: 7.923
 ---

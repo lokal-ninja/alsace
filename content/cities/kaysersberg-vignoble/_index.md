@@ -1,6 +1,6 @@
 ---
 title: Kaysersberg-Vignoble
 url: /kaysersberg-vignoble/
-latitude: 
-longitude: 
+latitude: 48.134
+longitude: 7.3
 ---

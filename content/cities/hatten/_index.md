@@ -1,6 +1,6 @@
 ---
 title: Hatten
 url: /hatten/
-latitude: 48.901278500000004
-longitude: 7.9757435
+latitude: 48.903
+longitude: 7.968
 ---

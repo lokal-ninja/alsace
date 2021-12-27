@@ -1,6 +1,6 @@
 ---
 title: Beinheim
 url: /beinheim/
-latitude: 48.8632757
-longitude: 8.0844618
+latitude: 48.863
+longitude: 8.084
 ---

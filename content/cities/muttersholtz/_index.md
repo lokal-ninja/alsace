@@ -1,6 +1,6 @@
 ---
 title: Muttersholtz
 url: /muttersholtz/
-latitude: 48.2693062
-longitude: 7.5358375
+latitude: 48.267
+longitude: 7.536
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wittenheim
 url: /wittenheim/
-latitude: 47.8080799
-longitude: 7.337368100000001
+latitude: 47.811
+longitude: 7.315
 ---

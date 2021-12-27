@@ -1,6 +1,6 @@
 ---
 title: Zutzendorf
 url: /zutzendorf/
-latitude: 48.8525682
-longitude: 7.548044600000001
+latitude: 48.854
+longitude: 7.549
 ---

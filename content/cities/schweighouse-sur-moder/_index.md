@@ -1,6 +1,6 @@
 ---
 title: Schweighouse-Sur-Moder
 url: /schweighouse-sur-moder/
-latitude: 
-longitude: 
+latitude: 48.818
+longitude: 7.726
 ---

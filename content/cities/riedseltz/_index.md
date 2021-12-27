@@ -1,6 +1,6 @@
 ---
 title: Riedseltz
 url: /riedseltz/
-latitude: 49.0147508
-longitude: 7.912967200000001
+latitude: 48.995
+longitude: 7.952
 ---

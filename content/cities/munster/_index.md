@@ -1,6 +1,6 @@
 ---
 title: Munster
 url: /munster/
-latitude: 48.624422100000004
-longitude: 7.6078114
+latitude: 48.042
+longitude: 7.132
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eguisheim
 url: /eguisheim/
-latitude: 48.0447968
-longitude: 7.3079618
+latitude: 48.042
+longitude: 7.31
 ---

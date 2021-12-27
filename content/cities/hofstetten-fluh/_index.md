@@ -1,6 +1,6 @@
 ---
 title: Hofstetten-Flüh
 url: /hofstetten-fluh/
-latitude: 
-longitude: 
+latitude: 47.489
+longitude: 7.498
 ---

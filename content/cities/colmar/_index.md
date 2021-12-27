@@ -1,6 +1,6 @@
 ---
 title: Colmar
 url: /colmar/
-latitude: 
-longitude: 
+latitude: 48.13
+longitude: 7.369
 ---

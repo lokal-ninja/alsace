@@ -1,6 +1,6 @@
 ---
 title: Erstein
 url: /erstein/
-latitude: 48.4227385
-longitude: 7.6632641
+latitude: 48.427
+longitude: 7.658
 ---

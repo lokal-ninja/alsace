@@ -1,6 +1,6 @@
 ---
 title: Grand Ballon
 url: /grand-ballon/
-latitude: 
-longitude: 
+latitude: 47.904
+longitude: 7.103
 ---

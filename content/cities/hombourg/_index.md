@@ -1,6 +1,6 @@
 ---
 title: Hombourg
 url: /hombourg/
-latitude: 47.758716
-longitude: 7.5063314000000005
+latitude: 47.759
+longitude: 7.505
 ---

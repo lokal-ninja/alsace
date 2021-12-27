@@ -1,6 +1,6 @@
 ---
 title: Mittelwihr
 url: /mittelwihr/
-latitude: 48.1502357
-longitude: 7.3203994
+latitude: 48.15
+longitude: 7.321
 ---

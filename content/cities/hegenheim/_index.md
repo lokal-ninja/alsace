@@ -1,6 +1,6 @@
 ---
 title: Hegenheim
 url: /hegenheim/
-latitude: 
-longitude: 
+latitude: 47.562
+longitude: 7.529
 ---

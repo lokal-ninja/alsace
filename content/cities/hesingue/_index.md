@@ -1,6 +1,6 @@
 ---
 title: Hésingue
 url: /hesingue/
-latitude: 47.5751587
-longitude: 7.5186109000000005
+latitude: 47.583
+longitude: 7.512
 ---
