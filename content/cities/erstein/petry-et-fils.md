@@ -1,5 +1,5 @@
 ---
 title: "Petry & Fils"
-url: /erstein/petry-and-fils/
+url: /erstein/petry-et-fils/
 shop: boulangerie
 ---

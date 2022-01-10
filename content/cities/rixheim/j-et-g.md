@@ -1,5 +1,5 @@
 ---
 title: "J & G"
-url: /rixheim/j-and-g/
+url: /rixheim/j-et-g/
 shop: vêtements
 ---

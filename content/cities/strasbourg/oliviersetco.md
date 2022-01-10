@@ -1,5 +1,5 @@
 ---
 title: "Oliviers&Co."
-url: /strasbourg/oliviersandco/
+url: /strasbourg/oliviersetco/
 shop: charcuterie
 ---

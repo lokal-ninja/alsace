@@ -1,5 +1,5 @@
 ---
 title: "KEIFLIN & FILS"
-url: /hesingue/keiflin-and-fils/
+url: /hesingue/keiflin-et-fils/
 shop: matériel informatique
 ---

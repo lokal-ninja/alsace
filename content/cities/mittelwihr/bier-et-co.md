@@ -1,5 +1,5 @@
 ---
 title: "Bier & Co"
-url: /mittelwihr/bier-and-co/
+url: /mittelwihr/bier-et-co/
 shop: alcool
 ---

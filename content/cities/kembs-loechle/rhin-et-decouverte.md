@@ -1,5 +1,5 @@
 ---
 title: "Rhin & Découverte"
-url: /kembs-loechle/rhin-and-decouverte/
+url: /kembs-loechle/rhin-et-decouverte/
 shop: vélo
 ---

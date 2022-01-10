@@ -1,5 +1,5 @@
 ---
 title: "Graine & Cie"
-url: /ostwald/graine-and-cie/
+url: /ostwald/graine-et-cie/
 shop: commodité
 ---

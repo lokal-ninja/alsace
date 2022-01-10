@@ -1,5 +1,5 @@
 ---
 title: "Hem & Vous"
-url: /strasbourg/hem-and-vous/
+url: /strasbourg/hem-et-vous/
 shop: coiffeur
 ---
