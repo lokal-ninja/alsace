@@ -1,5 +1,5 @@
 ---
-title: "Aldi Süd"
+title: "ALDI Süd"
 url: /rheinau/aldi-sud/
 shop: supermarché
 ---
