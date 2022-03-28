@@ -1,6 +1,6 @@
 ---
 title: Guebwiller
 url: /guebwiller/
-latitude: 47.909
-longitude: 7.212
+latitude: 47.901
+longitude: 7.227
 ---

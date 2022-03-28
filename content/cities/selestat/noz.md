@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /selestat/noz/
-shop: shop
+shop: magasin de variétés
 ---
