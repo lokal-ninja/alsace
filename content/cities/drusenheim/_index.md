@@ -1,6 +1,6 @@
 ---
 title: Drusenheim
 url: /drusenheim/
-latitude: 48.755
-longitude: 7.941
+latitude: 48.761
+longitude: 7.954
 ---
