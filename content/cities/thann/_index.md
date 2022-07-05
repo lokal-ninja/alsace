@@ -1,6 +1,6 @@
 ---
 title: Thann
 url: /thann/
-latitude: 47.811
-longitude: 7.101
+latitude: 47.81
+longitude: 7.103
 ---
