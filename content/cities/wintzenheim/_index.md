@@ -1,6 +1,6 @@
 ---
 title: Wintzenheim
 url: /wintzenheim/
-latitude: 48.085
-longitude: 7.311
+latitude: 48.072
+longitude: 7.292
 ---
