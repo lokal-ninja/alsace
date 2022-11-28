@@ -1,6 +1,6 @@
 ---
 title: Riquewihr
 url: /riquewihr/
-latitude: 48.165
+latitude: 48.167
 longitude: 7.298
 ---
