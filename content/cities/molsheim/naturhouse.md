@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /molsheim/naturhouse/
-shop: beauté
+shop: les compléments alimentaires
 ---
