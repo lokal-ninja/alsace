@@ -1,6 +1,6 @@
 ---
 title: Lapoutroie
 url: /lapoutroie/
-latitude: 48.145
-longitude: 7.182
+latitude: 48.146
+longitude: 7.187
 ---
