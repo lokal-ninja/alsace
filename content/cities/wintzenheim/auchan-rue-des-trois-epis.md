@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /wintzenheim/auchan-2/
+url: /wintzenheim/auchan/
 shop: commodité
 ---
