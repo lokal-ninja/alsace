@@ -1,5 +1,5 @@
 ---
 title: "Coupé Coiffé"
-url: /oberhergheim/coupe-coiffe/
+url: /niederentzen/coupe-coiffe/
 shop: coiffeur
 ---
