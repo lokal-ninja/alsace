@@ -1,6 +1,6 @@
 ---
 title: Carspach
 url: /carspach/
-latitude: 47.617
-longitude: 7.21
+latitude: 47.628
+longitude: 7.222
 ---
