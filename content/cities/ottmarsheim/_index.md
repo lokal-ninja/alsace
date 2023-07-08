@@ -1,6 +1,6 @@
 ---
 title: Ottmarsheim
 url: /ottmarsheim/
-latitude: 47.787
-longitude: 7.509
+latitude: 47.784
+longitude: 7.506
 ---
