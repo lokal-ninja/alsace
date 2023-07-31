@@ -1,6 +1,6 @@
 ---
 title: Gunsbach
 url: /gunsbach/
-latitude: 48.043
-longitude: 7.173
+latitude: 48.042
+longitude: 7.172
 ---
