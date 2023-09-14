@@ -1,5 +1,5 @@
 ---
 title: "L'ICE"
-url: /strasbourg/lice/
+url: /strasbourg/lice-rue-de-boston/
 shop: coiffeur
 ---
