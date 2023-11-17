@@ -1,5 +1,5 @@
 ---
 title: blanchisserie
 url: /blanchisserie/
-icon: other
+icon: laundry
 ---
