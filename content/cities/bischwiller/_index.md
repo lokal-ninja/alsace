@@ -1,6 +1,6 @@
 ---
 title: Bischwiller
 url: /bischwiller/
-latitude: 48.771
-longitude: 7.845
+latitude: 48.77
+longitude: 7.843
 ---
