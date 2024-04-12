@@ -1,6 +1,6 @@
 ---
 title: Ernolsheim-Bruche
 url: /ernolsheim-bruche/
-latitude: 48.559
-longitude: 7.568
+latitude: 48.553
+longitude: 7.567
 ---
