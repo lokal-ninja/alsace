@@ -1,6 +1,6 @@
 ---
 title: Eschau
 url: /eschau/
-latitude: 48.488
-longitude: 7.714
+latitude: 48.481
+longitude: 7.727
 ---

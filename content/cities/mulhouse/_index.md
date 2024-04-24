@@ -1,6 +1,6 @@
 ---
 title: Mulhouse
 url: /mulhouse/
-latitude: 47.747
-longitude: 7.338
+latitude: 47.741
+longitude: 7.292
 ---
