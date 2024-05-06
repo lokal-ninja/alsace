@@ -7,5 +7,5 @@ city: Kaysersberg
 street: "Rue du Général de Gaulle"
 housenumber: 74
 phone: "+33 3 89 47 13 31"
-opening_hours: "Mo,Su 10:00-12:00;Tu-Sa 10:00-12:00;14:00-18:00"
+opening_hours: "Mo,Tu,Th,Fr 09:30-12:00,14:00-18:00; Sa 10:00-12:00,14:00-18:00; We off"
 website: ""
