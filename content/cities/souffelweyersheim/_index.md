@@ -1,6 +1,6 @@
 ---
 title: Souffelweyersheim
 url: /souffelweyersheim/
-latitude: 48.625
-longitude: 7.726
+latitude: 48.628
+longitude: 7.73
 ---
