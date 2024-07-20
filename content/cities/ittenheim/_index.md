@@ -1,6 +1,6 @@
 ---
 title: Ittenheim
 url: /ittenheim/
-latitude: 48.604
-longitude: 7.603
+latitude: 48.603
+longitude: 7.591
 ---
