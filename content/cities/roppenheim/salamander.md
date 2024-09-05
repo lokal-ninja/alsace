@@ -1,5 +1,5 @@
 ---
 title: "Salamander"
 url: /roppenheim/salamander/
-shop: chaussures
+shop: Schuhe
 ---

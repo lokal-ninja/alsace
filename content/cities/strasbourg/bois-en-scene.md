@@ -1,5 +1,5 @@
 ---
 title: "Bois en Scène"
 url: /strasbourg/bois-en-scene/
-shop: bois
+shop: Holz
 ---

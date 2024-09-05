@@ -1,5 +1,5 @@
 ---
 title: "Uta's Werkstatt"
 url: /breisach-am-rhein/utas-werkstatt/
-shop: fleuriste
+shop: Blumen
 ---

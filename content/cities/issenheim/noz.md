@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /issenheim/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

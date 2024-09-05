@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /wintzenheim/auchan-rue-des-trois-epis/
-shop: commodité
+shop: Lebensmittel
 ---

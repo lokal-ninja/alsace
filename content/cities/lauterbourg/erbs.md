@@ -1,5 +1,5 @@
 ---
 title: "Erbs"
 url: /lauterbourg/erbs/
-shop: boulangerie
+shop: Bäckerei
 ---

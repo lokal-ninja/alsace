@@ -1,5 +1,5 @@
 ---
 title: "Gitem"
 url: /ingwiller/gitem/
-shop: appareil ménager
+shop: Haushaltsgeräte
 ---

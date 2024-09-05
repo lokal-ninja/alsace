@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /sierentz/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

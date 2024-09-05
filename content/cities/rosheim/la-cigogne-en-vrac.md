@@ -1,5 +1,5 @@
 ---
 title: "La Cigogne en Vrac"
 url: /rosheim/la-cigogne-en-vrac/
-shop: commodité
+shop: Lebensmittel
 ---

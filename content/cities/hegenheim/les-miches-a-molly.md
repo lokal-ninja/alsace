@@ -1,5 +1,5 @@
 ---
 title: "Les Miches à Molly"
 url: /hegenheim/les-miches-a-molly/
-shop: boulangerie
+shop: Bäckerei
 ---

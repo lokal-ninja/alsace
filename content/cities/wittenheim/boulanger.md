@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /wittenheim/boulanger/
-shop: électronique
+shop: Elektronik
 ---

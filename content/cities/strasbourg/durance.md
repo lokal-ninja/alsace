@@ -1,5 +1,5 @@
 ---
 title: "Durance"
 url: /strasbourg/durance/
-shop: cadeau
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
 url: /strasbourg/norma/
-shop: supermarché
+shop: Supermarkt
 ---

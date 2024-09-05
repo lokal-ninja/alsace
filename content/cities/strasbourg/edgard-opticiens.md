@@ -1,5 +1,5 @@
 ---
 title: "Edgard Opticiens"
 url: /strasbourg/edgard-opticiens/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laurent Ramstein Coiffeur"
 url: /kingersheim/laurent-ramstein-coiffeur/
-shop: coiffeur
+shop: Friseur
 ---

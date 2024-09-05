@@ -1,5 +1,5 @@
 ---
 title: "Fortwenger"
 url: /roppenheim/fortwenger/
-shop: confiserie
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Jacky Beck"
 url: /soufflenheim/boulangerie-jacky-beck/
-shop: boulangerie
+shop: Bäckerei
 ---

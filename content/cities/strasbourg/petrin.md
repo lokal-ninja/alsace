@@ -1,5 +1,5 @@
 ---
 title: "Pétrin"
 url: /strasbourg/petrin/
-shop: boulangerie
+shop: Bäckerei
 ---

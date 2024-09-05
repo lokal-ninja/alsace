@@ -1,5 +1,5 @@
 ---
 title: "Biodôme"
 url: /hegenheim/biodome/
-shop: supermarché
+shop: Supermarkt
 ---

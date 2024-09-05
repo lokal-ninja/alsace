@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /issenheim/banette/
-shop: boulangerie
+shop: Bäckerei
 ---

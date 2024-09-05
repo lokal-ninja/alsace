@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /illzach/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

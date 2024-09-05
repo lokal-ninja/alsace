@@ -1,5 +1,5 @@
 ---
 title: "Geox"
 url: /strasbourg/geox/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super U Gambsheim"
 url: /gambsheim/super-u-gambsheim/
-shop: supermarché
+shop: Supermarkt
 ---

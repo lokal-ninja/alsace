@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /souffelweyersheim/nissan/
-shop: voiture
+shop: Autohaus
 ---

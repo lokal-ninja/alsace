@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /hoenheim/audi/
-shop: voiture
+shop: Autohaus
 ---

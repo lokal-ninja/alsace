@@ -1,5 +1,5 @@
 ---
 title: "Rohmer"
 url: /rosheim/rohmer/
-shop: boulangerie
+shop: Bäckerei
 ---

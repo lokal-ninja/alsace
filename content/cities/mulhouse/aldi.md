@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mulhouse/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ZaMa"
 url: /schiltigheim/zama/
-shop: commodité
+shop: Lebensmittel
 ---

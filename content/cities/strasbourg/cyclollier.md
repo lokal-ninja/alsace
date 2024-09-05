@@ -1,5 +1,5 @@
 ---
 title: "Cycl'Ollier"
 url: /strasbourg/cyclollier/
-shop: vélo
+shop: Fahrrad
 ---

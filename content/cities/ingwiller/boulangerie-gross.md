@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Gross"
 url: /ingwiller/boulangerie-gross/
-shop: boulangerie
+shop: Bäckerei
 ---

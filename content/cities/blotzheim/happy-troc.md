@@ -1,5 +1,5 @@
 ---
 title: "Happy Troc"
 url: /blotzheim/happy-troc/
-shop: charité
+shop: Gebrauchtwaren
 ---

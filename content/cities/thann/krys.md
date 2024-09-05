@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /thann/krys/
-shop: opticien
+shop: Optiker
 ---

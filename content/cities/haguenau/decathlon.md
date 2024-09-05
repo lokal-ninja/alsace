@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /haguenau/decathlon/
-shop: sports
+shop: Sport
 ---

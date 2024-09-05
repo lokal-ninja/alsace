@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /saint-louis/intersport/
-shop: sports
+shop: Sport
 ---

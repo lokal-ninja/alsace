@@ -1,5 +1,5 @@
 ---
 title: "Meschenmoser"
 url: /strasbourg/meschenmoser/
-shop: opticien
+shop: Optiker
 ---

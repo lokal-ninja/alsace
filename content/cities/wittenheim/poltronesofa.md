@@ -1,5 +1,5 @@
 ---
 title: "Poltronesofà"
 url: /wittenheim/poltronesofa/
-shop: meubles
+shop: Möbel
 ---

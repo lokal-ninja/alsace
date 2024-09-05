@@ -1,5 +1,5 @@
 ---
 title: "A'BLOTZ TIFF'S"
 url: /blotzheim/ablotz-tiffs/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Eckert"
 url: /boersch/boulangerie-patisserie-eckert/
-shop: boulangerie
+shop: Bäckerei
 ---

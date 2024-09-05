@@ -1,5 +1,5 @@
 ---
 title: "MacWay Strasbourg"
 url: /strasbourg/macway-strasbourg/
-shop: ordinateur
+shop: Computer
 ---

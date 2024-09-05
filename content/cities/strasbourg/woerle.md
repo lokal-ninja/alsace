@@ -1,5 +1,5 @@
 ---
 title: "Woerlé"
 url: /strasbourg/woerle/
-shop: boulangerie
+shop: Bäckerei
 ---

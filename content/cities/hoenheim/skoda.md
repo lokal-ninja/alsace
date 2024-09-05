@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
 url: /hoenheim/skoda/
-shop: voiture
+shop: Autohaus
 ---

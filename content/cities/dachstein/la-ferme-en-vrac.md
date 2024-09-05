@@ -1,5 +1,5 @@
 ---
 title: "La Ferme en VRAC"
 url: /dachstein/la-ferme-en-vrac/
-shop: commodité
+shop: Lebensmittel
 ---

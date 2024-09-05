@@ -1,5 +1,5 @@
 ---
 title: "Floraisy"
 url: /erstein/floraisy/
-shop: fleuriste
+shop: Blumen
 ---

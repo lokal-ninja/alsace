@@ -1,5 +1,5 @@
 ---
 title: "L'Espace Création"
 url: /ingwiller/lespace-creation/
-shop: coiffeur
+shop: Friseur
 ---

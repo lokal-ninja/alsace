@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /altkirch/joueclub/
-shop: jouets
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LDLC"
 url: /geispolsheim/ldlc/
-shop: ordinateur
+shop: Computer
 ---

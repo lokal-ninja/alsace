@@ -1,5 +1,5 @@
 ---
 title: "Littera"
 url: /mulhouse/littera/
-shop: livres
+shop: Bücher
 ---

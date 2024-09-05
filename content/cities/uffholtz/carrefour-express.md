@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /uffholtz/carrefour-express/
-shop: commodité
+shop: Lebensmittel
 ---

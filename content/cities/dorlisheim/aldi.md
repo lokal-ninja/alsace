@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /dorlisheim/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

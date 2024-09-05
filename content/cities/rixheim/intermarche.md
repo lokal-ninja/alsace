@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /rixheim/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

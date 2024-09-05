@@ -1,5 +1,5 @@
 ---
 title: "Le Fruitier Densch"
 url: /haguenau/le-fruitier-densch/
-shop: légumes
+shop: Gemüse & Obst
 ---

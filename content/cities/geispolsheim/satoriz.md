@@ -1,5 +1,5 @@
 ---
 title: "Satoriz"
 url: /geispolsheim/satoriz/
-shop: supermarché
+shop: Supermarkt
 ---

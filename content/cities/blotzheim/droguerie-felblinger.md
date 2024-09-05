@@ -1,5 +1,5 @@
 ---
 title: "Droguerie Felblinger"
 url: /blotzheim/droguerie-felblinger/
-shop: chimiste
+shop: Drogerie
 ---

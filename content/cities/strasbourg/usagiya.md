@@ -1,5 +1,5 @@
 ---
 title: "Usagîya"
 url: /strasbourg/usagiya/
-shop: pâtisserie
+shop: Konditorei
 ---

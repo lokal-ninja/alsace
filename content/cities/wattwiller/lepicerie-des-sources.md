@@ -1,5 +1,5 @@
 ---
 title: "L'épicerie des Sources"
 url: /wattwiller/lepicerie-des-sources/
-shop: commodité
+shop: Lebensmittel
 ---

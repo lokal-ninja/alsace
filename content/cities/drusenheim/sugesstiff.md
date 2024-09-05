@@ -1,5 +1,5 @@
 ---
 title: "Sugess'tiff"
 url: /drusenheim/sugesstiff/
-shop: coiffeur
+shop: Friseur
 ---

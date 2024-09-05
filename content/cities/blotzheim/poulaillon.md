@@ -1,5 +1,5 @@
 ---
 title: "Poulaillon"
 url: /blotzheim/poulaillon/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohof Bremgarten"
 url: /hartheim/autohof-bremgarten/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vracomarché"
 url: /saverne/vracomarche/
-shop: commodité
+shop: Lebensmittel
 ---

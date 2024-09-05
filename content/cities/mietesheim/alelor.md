@@ -1,5 +1,5 @@
 ---
 title: "Alélor"
 url: /mietesheim/alelor/
-shop: shop
+shop: Allgemein
 ---

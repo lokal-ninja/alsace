@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /strasbourg/schmidt/
-shop: cuisine
+shop: Küchen
 ---

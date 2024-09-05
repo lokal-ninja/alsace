@@ -1,5 +1,5 @@
 ---
 title: "Mirabel"
 url: /hegenheim/mirabel/
-shop: parfumerie
+shop: Parfümerie
 ---

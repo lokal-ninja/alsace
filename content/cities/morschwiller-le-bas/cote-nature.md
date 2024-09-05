@@ -1,5 +1,5 @@
 ---
 title: "Côté Nature"
 url: /morschwiller-le-bas/cote-nature/
-shop: supermarché
+shop: Supermarkt
 ---

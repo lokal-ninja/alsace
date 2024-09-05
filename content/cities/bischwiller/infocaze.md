@@ -1,5 +1,5 @@
 ---
 title: "Infocaze"
 url: /bischwiller/infocaze/
-shop: ordinateur
+shop: Computer
 ---
