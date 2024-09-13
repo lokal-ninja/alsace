@@ -1,6 +1,6 @@
 ---
 title: Weil am Rhein
 url: /weil-am-rhein/
-latitude: 47.624
-longitude: 7.574
+latitude: 47.59
+longitude: 7.593
 ---

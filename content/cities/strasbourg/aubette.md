@@ -1,5 +1,5 @@
 ---
 title: "Aubette"
 url: /strasbourg/aubette/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

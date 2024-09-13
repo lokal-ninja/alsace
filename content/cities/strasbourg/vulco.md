@@ -1,5 +1,5 @@
 ---
 title: "Vulco"
 url: /strasbourg/vulco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

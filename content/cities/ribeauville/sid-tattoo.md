@@ -1,5 +1,5 @@
 ---
 title: "Sid Tattoo"
 url: /ribeauville/sid-tattoo/
-shop: Tattoo
+shop: tatouage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bricoman"
 url: /sausheim/bricoman/
-shop: Baumarkt
+shop: à faire soi-même
 ---

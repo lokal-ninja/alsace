@@ -1,5 +1,5 @@
 ---
 title: "Torterotot Dutt"
 url: /pfaffenhoffen/torterotot-dutt/
-shop: Baumarkt
+shop: à faire soi-même
 ---

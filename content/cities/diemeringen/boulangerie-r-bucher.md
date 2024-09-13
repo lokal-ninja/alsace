@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie R. Bucher"
 url: /diemeringen/boulangerie-r-bucher/
-shop: Bäckerei
+shop: boulangerie
 ---

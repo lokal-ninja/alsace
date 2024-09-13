@@ -1,5 +1,5 @@
 ---
 title: "Le cellier du Bram's"
 url: /fellering/le-cellier-du-brams/
-shop: Feinkost
+shop: charcuterie
 ---

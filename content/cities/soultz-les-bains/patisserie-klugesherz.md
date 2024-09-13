@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie Klugesherz"
 url: /soultz-les-bains/patisserie-klugesherz/
-shop: Konditorei
+shop: pâtisserie
 ---

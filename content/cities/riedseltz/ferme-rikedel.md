@@ -1,5 +1,5 @@
 ---
 title: "Ferme Rikedel"
 url: /riedseltz/ferme-rikedel/
-shop: Hofladen
+shop: ferme
 ---

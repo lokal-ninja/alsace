@@ -1,5 +1,5 @@
 ---
 title: "Paris Store Wolfisheim"
 url: /wolfisheim/paris-store-wolfisheim/
-shop: Supermarkt
+shop: supermarché
 ---

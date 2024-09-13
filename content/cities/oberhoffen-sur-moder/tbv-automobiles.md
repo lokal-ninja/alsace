@@ -1,5 +1,5 @@
 ---
 title: "TBV Automobiles"
 url: /oberhoffen-sur-moder/tbv-automobiles/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /wintzenheim/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gruber Automobile"
 url: /achenheim/gruber-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

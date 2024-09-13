@@ -1,5 +1,5 @@
 ---
 title: "Garage Lity"
 url: /krautergersheim/garage-lity/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

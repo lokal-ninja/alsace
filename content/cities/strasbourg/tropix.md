@@ -1,5 +1,5 @@
 ---
 title: "Tropix"
 url: /strasbourg/tropix/
-shop: Garten-Center
+shop: centre de jardinage
 ---

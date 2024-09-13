@@ -1,5 +1,5 @@
 ---
 title: "Magic Mineraux"
 url: /ribeauville/magic-mineraux/
-shop: Schmuck
+shop: bijoux
 ---

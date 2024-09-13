@@ -1,5 +1,5 @@
 ---
 title: "Euro-portes"
 url: /haguenau/euro-portes/
-shop: Allgemein
+shop: shop
 ---

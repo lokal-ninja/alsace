@@ -1,5 +1,5 @@
 ---
 title: "Au Plaisir Fleuri"
 url: /durmenach/au-plaisir-fleuri/
-shop: Blumen
+shop: fleuriste
 ---

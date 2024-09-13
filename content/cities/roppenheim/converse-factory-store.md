@@ -1,5 +1,5 @@
 ---
 title: "Converse Factory Store"
 url: /roppenheim/converse-factory-store/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Passage de la Réunion"
 url: /mulhouse/passage-de-la-reunion/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

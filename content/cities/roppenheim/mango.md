@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /roppenheim/mango/
-shop: Kleidung
+shop: vêtements
 ---

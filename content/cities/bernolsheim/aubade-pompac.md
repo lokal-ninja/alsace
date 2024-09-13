@@ -1,5 +1,5 @@
 ---
 title: "Aubade - Pompac"
 url: /bernolsheim/aubade-pompac/
-shop: Baumarkt
+shop: à faire soi-même
 ---

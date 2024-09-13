@@ -1,5 +1,5 @@
 ---
 title: "Garage BP Auto"
 url: /ribeauville/garage-bp-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

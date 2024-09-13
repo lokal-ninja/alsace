@@ -1,5 +1,5 @@
 ---
 title: "Porcus"
 url: /strasbourg/porcus/
-shop: Metzgerei
+shop: boucherie
 ---

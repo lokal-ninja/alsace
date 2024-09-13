@@ -1,5 +1,5 @@
 ---
 title: "Garage Modery"
 url: /lauterbourg/garage-modery/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

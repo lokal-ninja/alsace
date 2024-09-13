@@ -1,5 +1,5 @@
 ---
 title: "Pattysserie"
 url: /ribeauville/pattysserie/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

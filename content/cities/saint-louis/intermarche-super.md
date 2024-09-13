@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /saint-louis/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

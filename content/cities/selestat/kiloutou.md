@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /selestat/kiloutou/
-shop: Mieten
+shop: location de stockage
 ---

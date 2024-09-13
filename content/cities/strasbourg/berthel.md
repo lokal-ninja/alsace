@@ -1,5 +1,5 @@
 ---
 title: "Berthel"
 url: /strasbourg/berthel/
-shop: Kleidung
+shop: vêtements
 ---

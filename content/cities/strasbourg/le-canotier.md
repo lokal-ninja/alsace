@@ -1,5 +1,5 @@
 ---
 title: "Le Canotier"
 url: /strasbourg/le-canotier/
-shop: Kleidung
+shop: vêtements
 ---

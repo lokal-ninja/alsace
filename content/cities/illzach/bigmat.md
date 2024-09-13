@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /illzach/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

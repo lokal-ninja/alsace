@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /strasbourg/darty/
-shop: Elektronik
+shop: électronique
 ---

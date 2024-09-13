@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /illzach/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

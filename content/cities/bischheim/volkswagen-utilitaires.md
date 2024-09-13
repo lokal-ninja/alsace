@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen Utilitaires"
 url: /bischheim/volkswagen-utilitaires/
-shop: Autohaus
+shop: voiture
 ---

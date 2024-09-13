@@ -1,5 +1,5 @@
 ---
 title: "Erithaj"
 url: /strasbourg/erithaj/
-shop: Schokolade
+shop: chocolat
 ---

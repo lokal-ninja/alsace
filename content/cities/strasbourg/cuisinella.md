@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /strasbourg/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

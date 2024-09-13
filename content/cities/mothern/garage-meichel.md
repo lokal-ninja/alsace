@@ -1,5 +1,5 @@
 ---
 title: "Garage Meichel"
 url: /mothern/garage-meichel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

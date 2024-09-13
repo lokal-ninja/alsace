@@ -1,5 +1,5 @@
 ---
 title: "Trèfle Vert"
 url: /altkirch/trefle-vert/
-shop: Garten-Center
+shop: centre de jardinage
 ---

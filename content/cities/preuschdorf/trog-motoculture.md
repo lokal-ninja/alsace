@@ -1,5 +1,5 @@
 ---
 title: "Trog Motoculture"
 url: /preuschdorf/trog-motoculture/
-shop: Dorfladen
+shop: magasin de campagne
 ---

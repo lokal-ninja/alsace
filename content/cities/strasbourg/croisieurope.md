@@ -1,5 +1,5 @@
 ---
 title: "CroisiEurope"
 url: /strasbourg/croisieurope/
-shop: Reisebüro
+shop: agence de voyage
 ---

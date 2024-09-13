@@ -1,5 +1,5 @@
 ---
 title: "Schmitt SA"
 url: /illzach/schmitt-sa/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maltala"
 url: /bergheim/maltala/
-shop: Landwirtschaftlich
+shop: agraire
 ---

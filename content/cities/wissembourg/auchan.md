@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /wissembourg/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

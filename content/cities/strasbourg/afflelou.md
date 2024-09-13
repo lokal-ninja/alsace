@@ -1,5 +1,5 @@
 ---
 title: "Afflelou"
 url: /strasbourg/afflelou/
-shop: Optiker
+shop: opticien
 ---

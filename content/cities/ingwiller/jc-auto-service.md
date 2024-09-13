@@ -1,5 +1,5 @@
 ---
 title: "JC Auto Service"
 url: /ingwiller/jc-auto-service/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

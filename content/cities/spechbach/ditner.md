@@ -1,5 +1,5 @@
 ---
 title: "Ditner"
 url: /spechbach/ditner/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

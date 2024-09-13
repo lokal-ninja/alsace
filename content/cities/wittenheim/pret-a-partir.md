@@ -1,5 +1,5 @@
 ---
 title: "Prêt à partir"
 url: /wittenheim/pret-a-partir/
-shop: Reisebüro
+shop: agence de voyage
 ---

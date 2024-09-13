@@ -1,5 +1,5 @@
 ---
-title: "MG Motor"
+title: "Mg Motor"
 url: /schweighouse-sur-moder/mg-motor/
-shop: Autohaus
+shop: voiture
 ---

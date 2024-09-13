@@ -1,5 +1,5 @@
 ---
 title: "Perle"
 url: /strasbourg/perle/
-shop: Spirituosen
+shop: alcool
 ---

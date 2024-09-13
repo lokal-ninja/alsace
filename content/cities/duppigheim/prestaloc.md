@@ -1,5 +1,5 @@
 ---
 title: "Prestaloc"
 url: /duppigheim/prestaloc/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

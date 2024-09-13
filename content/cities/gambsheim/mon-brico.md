@@ -1,5 +1,5 @@
 ---
 title: "Mon Brico"
 url: /gambsheim/mon-brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

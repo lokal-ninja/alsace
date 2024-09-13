@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /saint-louis/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

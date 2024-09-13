@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /hatten/carrefour-contact/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pourquoi pas un livre"
 url: /molsheim/pourquoi-pas-un-livre/
-shop: Bücher
+shop: livres
 ---

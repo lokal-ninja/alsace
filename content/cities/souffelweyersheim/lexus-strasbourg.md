@@ -1,5 +1,5 @@
 ---
 title: "Lexus Strasbourg"
 url: /souffelweyersheim/lexus-strasbourg/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

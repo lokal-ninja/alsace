@@ -1,5 +1,5 @@
 ---
 title: "Enderlin"
 url: /schlierbach/enderlin/
-shop: Jalousien
+shop: store de fenêtre
 ---

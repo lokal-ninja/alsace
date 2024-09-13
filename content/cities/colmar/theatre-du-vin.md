@@ -1,5 +1,5 @@
 ---
 title: "Théâtre du vin"
 url: /colmar/theatre-du-vin/
-shop: Spirituosen
+shop: alcool
 ---

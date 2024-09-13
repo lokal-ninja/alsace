@@ -1,5 +1,5 @@
 ---
 title: "Montres And Co"
 url: /saint-louis/montres-and-co/
-shop: Schmuck
+shop: bijoux
 ---

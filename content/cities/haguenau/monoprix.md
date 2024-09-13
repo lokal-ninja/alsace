@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /haguenau/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

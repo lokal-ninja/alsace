@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie Kiehl"
 url: /plobsheim/boulangerie-patisserie-kiehl/
-shop: Bäckerei
+shop: boulangerie
 ---

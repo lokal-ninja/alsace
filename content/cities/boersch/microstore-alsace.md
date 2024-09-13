@@ -1,5 +1,5 @@
 ---
 title: "Microstore Alsace"
 url: /boersch/microstore-alsace/
-shop: Computer
+shop: ordinateur
 ---

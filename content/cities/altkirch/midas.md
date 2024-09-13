@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /altkirch/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

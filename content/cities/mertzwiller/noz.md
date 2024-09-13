@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /mertzwiller/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renno Carrosserie"
 url: /rixheim/renno-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

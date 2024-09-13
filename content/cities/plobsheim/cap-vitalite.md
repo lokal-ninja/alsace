@@ -1,5 +1,5 @@
 ---
 title: "Cap Vitalité"
 url: /plobsheim/cap-vitalite/
-shop: Bioladen
+shop: alimentation saine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Siehr"
 url: /selestat/siehr/
-shop: Baumarkt
+shop: à faire soi-même
 ---

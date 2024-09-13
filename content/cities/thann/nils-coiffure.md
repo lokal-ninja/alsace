@@ -1,5 +1,5 @@
 ---
 title: "Nils coiffure"
 url: /thann/nils-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

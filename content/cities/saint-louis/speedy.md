@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /saint-louis/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

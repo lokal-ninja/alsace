@@ -1,5 +1,5 @@
 ---
 title: "Société Linck"
 url: /epfig/societe-linck/
-shop: Dorfladen
+shop: magasin de campagne
 ---

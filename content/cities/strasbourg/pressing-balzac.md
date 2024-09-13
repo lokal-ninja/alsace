@@ -1,5 +1,5 @@
 ---
 title: "Pressing Balzac"
 url: /strasbourg/pressing-balzac/
-shop: Wäscherei
+shop: blanchisserie
 ---

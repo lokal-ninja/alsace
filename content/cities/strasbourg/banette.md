@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /strasbourg/banette/
-shop: Bäckerei
+shop: boulangerie
 ---

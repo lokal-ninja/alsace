@@ -1,5 +1,5 @@
 ---
 title: "Aboné Coiffeur"
 url: /bischheim/abone-coiffeur/
-shop: Friseur
+shop: coiffeur
 ---

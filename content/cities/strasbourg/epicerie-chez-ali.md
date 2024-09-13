@@ -1,5 +1,5 @@
 ---
 title: "Épicerie chez Ali"
 url: /strasbourg/epicerie-chez-ali/
-shop: Kiosk
+shop: kiosque
 ---

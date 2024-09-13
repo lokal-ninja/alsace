@@ -1,5 +1,5 @@
 ---
 title: "Poupadou"
 url: /strasbourg/poupadou/
-shop: Feinkost
+shop: charcuterie
 ---

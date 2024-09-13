@@ -1,5 +1,5 @@
 ---
 title: "Naturama"
 url: /haguenau/naturama/
-shop: Tiere
+shop: animal de compagnie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marie Blachère"
 url: /strasbourg/marie-blachere/
-shop: Bäckerei
+shop: boulangerie
 ---

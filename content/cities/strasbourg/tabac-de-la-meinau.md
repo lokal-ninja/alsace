@@ -1,5 +1,5 @@
 ---
 title: "Tabac de la Meinau"
 url: /strasbourg/tabac-de-la-meinau/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Patchwork Passion"
 url: /colmar/patchwork-passion/
-shop: Textil
+shop: tissu
 ---

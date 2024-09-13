@@ -1,5 +1,5 @@
 ---
 title: "L'épicier fou"
 url: /westhalten/lepicier-fou/
-shop: Feinkost
+shop: charcuterie
 ---

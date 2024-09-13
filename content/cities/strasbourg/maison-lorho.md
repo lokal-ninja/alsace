@@ -1,5 +1,5 @@
 ---
 title: "Maison Lorho"
 url: /strasbourg/maison-lorho/
-shop: Käse
+shop: fromage
 ---

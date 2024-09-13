@@ -1,5 +1,5 @@
 ---
 title: "Seat"
 url: /hoenheim/seat/
-shop: Autohaus
+shop: voiture
 ---

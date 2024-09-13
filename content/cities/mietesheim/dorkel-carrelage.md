@@ -1,5 +1,5 @@
 ---
 title: "Dorkel Carrelage"
 url: /mietesheim/dorkel-carrelage/
-shop: Badezimmer
+shop: salle de bains
 ---

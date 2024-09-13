@@ -1,5 +1,5 @@
 ---
 title: "Ferme Moyses"
 url: /feldkirch/ferme-moyses/
-shop: Hofladen
+shop: ferme
 ---

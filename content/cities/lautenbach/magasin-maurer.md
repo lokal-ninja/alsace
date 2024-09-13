@@ -1,5 +1,5 @@
 ---
 title: "Magasin Maurer"
 url: /lautenbach/magasin-maurer/
-shop: Dorfladen
+shop: magasin de campagne
 ---

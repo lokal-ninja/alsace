@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /schiltigheim/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

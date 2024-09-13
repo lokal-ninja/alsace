@@ -1,5 +1,5 @@
 ---
 title: "Garage des Peupliers"
 url: /emlingen/garage-des-peupliers/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

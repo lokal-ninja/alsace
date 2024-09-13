@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /horbourg-wihr/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

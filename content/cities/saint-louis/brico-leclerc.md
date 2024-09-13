@@ -1,5 +1,5 @@
 ---
 title: "BRICO LECLERC"
 url: /saint-louis/brico-leclerc/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Havas Voyages"
 url: /saint-louis/havas-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

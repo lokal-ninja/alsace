@@ -1,5 +1,5 @@
 ---
 title: "Distinxion "
 url: /burnhaupt-le-haut/distinxion/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

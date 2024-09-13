@@ -1,5 +1,5 @@
 ---
 title: "Suley'man Coiffure"
 url: /schiltigheim/suleyman-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

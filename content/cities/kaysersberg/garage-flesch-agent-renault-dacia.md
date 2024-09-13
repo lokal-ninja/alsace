@@ -1,5 +1,5 @@
 ---
 title: "Garage Flesch - Agent Renault Dacia"
 url: /kaysersberg/garage-flesch-agent-renault-dacia/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

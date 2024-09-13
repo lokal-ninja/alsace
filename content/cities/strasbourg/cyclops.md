@@ -1,5 +1,5 @@
 ---
 title: "Cyclops"
 url: /strasbourg/cyclops/
-shop: Bücher
+shop: livres
 ---

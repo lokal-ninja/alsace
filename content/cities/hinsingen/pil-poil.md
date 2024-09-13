@@ -1,5 +1,5 @@
 ---
 title: "Pil Poil"
 url: /hinsingen/pil-poil/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

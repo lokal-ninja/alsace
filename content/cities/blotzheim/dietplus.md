@@ -1,5 +1,5 @@
 ---
 title: "Dietplus"
 url: /blotzheim/dietplus/
-shop: Bioladen
+shop: alimentation saine
 ---

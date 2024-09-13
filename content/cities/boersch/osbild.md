@@ -1,5 +1,5 @@
 ---
 title: "Osbild"
 url: /boersch/osbild/
-shop: Bäckerei
+shop: boulangerie
 ---

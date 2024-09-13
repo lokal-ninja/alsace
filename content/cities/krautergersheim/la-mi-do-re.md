@@ -1,5 +1,5 @@
 ---
 title: "La Mi Do Ré"
 url: /krautergersheim/la-mi-do-re/
-shop: Bäckerei
+shop: boulangerie
 ---

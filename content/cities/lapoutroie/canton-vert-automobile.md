@@ -1,5 +1,5 @@
 ---
 title: "Canton Vert Automobile"
 url: /lapoutroie/canton-vert-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

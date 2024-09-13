@@ -1,5 +1,5 @@
 ---
 title: "Globepaddler"
 url: /huningue/globepaddler/
-shop: Sport
+shop: sports
 ---

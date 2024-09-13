@@ -1,5 +1,5 @@
 ---
 title: "Charlier"
 url: /la-broque/charlier/
-shop: Konditorei
+shop: pâtisserie
 ---

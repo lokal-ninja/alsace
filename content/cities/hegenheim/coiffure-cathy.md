@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Cathy"
 url: /hegenheim/coiffure-cathy/
-shop: Friseur
+shop: coiffeur
 ---

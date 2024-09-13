@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /saint-louis/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cycle St Florent"
 url: /strasbourg/cycle-st-florent/
-shop: Fahrrad
+shop: vélo
 ---

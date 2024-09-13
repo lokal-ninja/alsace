@@ -1,5 +1,5 @@
 ---
 title: "Roi des vins"
 url: /wissembourg/roi-des-vins/
-shop: Wein
+shop: vin
 ---

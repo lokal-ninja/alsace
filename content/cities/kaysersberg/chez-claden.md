@@ -1,5 +1,5 @@
 ---
 title: "Chez Claden"
 url: /kaysersberg/chez-claden/
-shop: Metzgerei
+shop: boucherie
 ---

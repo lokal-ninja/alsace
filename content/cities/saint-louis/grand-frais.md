@@ -1,5 +1,5 @@
 ---
 title: "Grand Frais"
 url: /saint-louis/grand-frais/
-shop: Supermarkt
+shop: supermarché
 ---

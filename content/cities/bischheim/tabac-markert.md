@@ -1,5 +1,5 @@
 ---
 title: "Tabac Markert"
 url: /bischheim/tabac-markert/
-shop: Tabak
+shop: tabac
 ---

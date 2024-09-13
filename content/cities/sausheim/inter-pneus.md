@@ -1,5 +1,5 @@
 ---
 title: "Inter pneus"
 url: /sausheim/inter-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

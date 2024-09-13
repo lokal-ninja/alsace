@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /herrlisheim/spar/
-shop: Supermarkt
+shop: supermarché
 ---

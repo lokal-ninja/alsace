@@ -1,5 +1,5 @@
 ---
 title: "Brico"
 url: /horbourg-wihr/brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

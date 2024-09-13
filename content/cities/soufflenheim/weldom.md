@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /soufflenheim/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

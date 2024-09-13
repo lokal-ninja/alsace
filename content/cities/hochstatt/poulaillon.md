@@ -1,5 +1,5 @@
 ---
 title: "Poulaillon"
 url: /hochstatt/poulaillon/
-shop: Bäckerei
+shop: boulangerie
 ---

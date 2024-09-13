@@ -1,5 +1,5 @@
 ---
 title: "Hans"
 url: /soultzeren/hans/
-shop: Fisch
+shop: fruits de mer
 ---

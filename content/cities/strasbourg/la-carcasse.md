@@ -1,5 +1,5 @@
 ---
 title: "La Carcasse"
 url: /strasbourg/la-carcasse/
-shop: Metzgerei
+shop: boucherie
 ---

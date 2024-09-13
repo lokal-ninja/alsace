@@ -1,5 +1,5 @@
 ---
 title: "Le Colibri"
 url: /niedermodern/le-colibri/
-shop: Supermarkt
+shop: supermarché
 ---

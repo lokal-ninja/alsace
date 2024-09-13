@@ -1,5 +1,5 @@
 ---
 title: "Meubles Brayé Dannemarie"
 url: /dannemarie/meubles-braye-dannemarie/
-shop: Supermarkt
+shop: supermarché
 ---

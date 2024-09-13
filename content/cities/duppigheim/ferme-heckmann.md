@@ -1,5 +1,5 @@
 ---
 title: "Ferme Heckmann"
 url: /duppigheim/ferme-heckmann/
-shop: Hofladen
+shop: ferme
 ---

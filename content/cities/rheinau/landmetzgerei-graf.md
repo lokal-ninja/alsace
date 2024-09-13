@@ -1,5 +1,5 @@
 ---
 title: "Landmetzgerei Graf"
 url: /rheinau/landmetzgerei-graf/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tony pneus"
 url: /rohrwiller/tony-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

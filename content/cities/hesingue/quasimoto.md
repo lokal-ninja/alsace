@@ -1,5 +1,5 @@
 ---
 title: "QUASIMOTO"
 url: /hesingue/quasimoto/
-shop: Motorrad
+shop: moto
 ---

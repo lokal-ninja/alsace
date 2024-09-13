@@ -1,5 +1,5 @@
 ---
 title: "Bianca"
 url: /roppenheim/bianca/
-shop: Kleidung
+shop: vêtements
 ---

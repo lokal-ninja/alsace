@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /selestat/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

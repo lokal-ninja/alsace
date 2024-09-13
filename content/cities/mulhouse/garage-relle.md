@@ -1,5 +1,5 @@
 ---
 title: "Garage Rellé"
 url: /mulhouse/garage-relle/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

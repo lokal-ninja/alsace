@@ -1,5 +1,5 @@
 ---
 title: "Vision Plus"
 url: /saint-louis/vision-plus/
-shop: Optiker
+shop: opticien
 ---

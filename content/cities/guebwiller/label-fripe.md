@@ -1,5 +1,5 @@
 ---
 title: "Label Fripe"
 url: /guebwiller/label-fripe/
-shop: Gebrauchtwaren
+shop: charité
 ---

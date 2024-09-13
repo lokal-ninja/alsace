@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /wittenheim/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

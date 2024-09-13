@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Réunion"
 url: /kingersheim/tabac-presse-reunion/
-shop: Tabak
+shop: tabac
 ---

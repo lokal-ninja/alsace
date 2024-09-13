@@ -1,5 +1,5 @@
 ---
 title: "Stop auto"
 url: /monswiller/stop-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /souffelweyersheim/volvo/
-shop: Autohaus
+shop: voiture
 ---

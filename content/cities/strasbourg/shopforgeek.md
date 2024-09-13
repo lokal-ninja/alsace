@@ -1,5 +1,5 @@
 ---
 title: "ShopForGeek"
 url: /strasbourg/shopforgeek/
-shop: Spielzeug
+shop: jouets
 ---

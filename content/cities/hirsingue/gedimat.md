@@ -1,5 +1,5 @@
 ---
 title: "Gedimat"
 url: /hirsingue/gedimat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

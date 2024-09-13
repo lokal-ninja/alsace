@@ -1,5 +1,5 @@
 ---
 title: "Phonehub"
 url: /schiltigheim/phonehub/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /schiltigheim/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

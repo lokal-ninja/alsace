@@ -1,5 +1,5 @@
 ---
 title: "Rif-Style"
 url: /bischheim/rif-style/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /saint-louis/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /seltz/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

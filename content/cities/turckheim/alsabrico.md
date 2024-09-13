@@ -1,5 +1,5 @@
 ---
 title: "Alsabrico"
 url: /turckheim/alsabrico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

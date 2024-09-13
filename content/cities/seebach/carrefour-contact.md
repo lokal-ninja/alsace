@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /seebach/carrefour-contact/
-shop: Supermarkt
+shop: supermarché
 ---

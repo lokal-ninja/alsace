@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /mulhouse/cora/
-shop: Supermarkt
+shop: supermarché
 ---

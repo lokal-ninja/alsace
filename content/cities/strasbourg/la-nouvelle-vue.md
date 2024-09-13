@@ -1,5 +1,5 @@
 ---
 title: "La Nouvelle Vue"
 url: /strasbourg/la-nouvelle-vue/
-shop: Optiker
+shop: opticien
 ---

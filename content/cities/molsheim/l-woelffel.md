@@ -1,5 +1,5 @@
 ---
 title: "L. Woelffel"
 url: /molsheim/l-woelffel/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

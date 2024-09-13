@@ -1,5 +1,5 @@
 ---
 title: "Imprimeur"
 url: /mundolsheim/imprimeur/
-shop: Kopieren
+shop: copyshop
 ---

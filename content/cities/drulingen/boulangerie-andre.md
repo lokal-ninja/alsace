@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie André"
 url: /drulingen/boulangerie-andre/
-shop: Bäckerei
+shop: boulangerie
 ---

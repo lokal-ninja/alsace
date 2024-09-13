@@ -1,5 +1,5 @@
 ---
 title: "Meyer Yves"
 url: /blotzheim/meyer-yves/
-shop: Landwirtschaftlich
+shop: agraire
 ---

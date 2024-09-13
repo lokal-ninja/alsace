@@ -1,5 +1,5 @@
 ---
 title: "Fromandises"
 url: /thann/fromandises/
-shop: Käse
+shop: fromage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /mutzig/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

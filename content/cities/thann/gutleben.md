@@ -1,5 +1,5 @@
 ---
 title: "Gutleben"
 url: /thann/gutleben/
-shop: Optiker
+shop: opticien
 ---

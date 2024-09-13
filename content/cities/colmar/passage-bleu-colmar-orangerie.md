@@ -1,5 +1,5 @@
 ---
 title: "Passage Bleu - Colmar Orangerie"
 url: /colmar/passage-bleu-colmar-orangerie/
-shop: Kosmetik
+shop: beauté
 ---

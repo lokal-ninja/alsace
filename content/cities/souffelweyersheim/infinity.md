@@ -1,5 +1,5 @@
 ---
 title: "Infinity"
 url: /souffelweyersheim/infinity/
-shop: Autohaus
+shop: voiture
 ---

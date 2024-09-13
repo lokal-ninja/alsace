@@ -1,5 +1,5 @@
 ---
 title: "Écouter Voir"
 url: /saint-louis/ecouter-voir/
-shop: Optiker
+shop: opticien
 ---

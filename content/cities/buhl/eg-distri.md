@@ -1,5 +1,5 @@
 ---
 title: "EG Distri"
 url: /buhl/eg-distri/
-shop: Baumarkt
+shop: à faire soi-même
 ---

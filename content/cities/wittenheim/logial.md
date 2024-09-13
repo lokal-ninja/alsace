@@ -1,5 +1,5 @@
 ---
 title: "Logial"
 url: /wittenheim/logial/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Earl du Pfaffenbach"
 url: /wolschwiller/earl-du-pfaffenbach/
-shop: Hofladen
+shop: ferme
 ---
