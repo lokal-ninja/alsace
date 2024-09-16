@@ -4,8 +4,8 @@ latitude: 48.57664
 longitude: 7.75522
 postcode: "67000"
 city: Strasbourg
-street: "Rue Jacques Peirotes"
-housenumber: 5
+street: Rue Jacques Peirotes
+housenumber: "5"
 phone: "+33388109832"
-opening_hours: "Mo 14:00-10:00; Tu-Fr 09:00-12:30, 13:30-19:00; Sa 10:00-17:00"
-website: "https://www.chezbiclou.com/"
+opening_hours: Mo 14:00-10:00; Tu-Fr 09:00-12:30, 13:30-19:00; Sa 10:00-17:00
+website: https://www.chezbiclou.com/

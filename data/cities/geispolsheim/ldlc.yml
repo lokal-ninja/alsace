@@ -4,8 +4,8 @@ latitude: 48.5229
 longitude: 7.69135
 postcode: "67118"
 city: Geispolsheim
-street: "Rue du Fort"
-housenumber: 3
-phone: "+33 3 88 39 33 77"
-opening_hours: "Tu-Sa 09:30-18:30"
-website: "https://www.ldlc.com/magasins-ldlc/magasin-470056/67-ldlc-strasbourg-geispolsheim/"
+street: Rue du Fort
+housenumber: "3"
+phone: +33 3 88 39 33 77
+opening_hours: Tu-Sa 09:30-18:30
+website: https://www.ldlc.com/magasins-ldlc/magasin-470056/67-ldlc-strasbourg-geispolsheim/

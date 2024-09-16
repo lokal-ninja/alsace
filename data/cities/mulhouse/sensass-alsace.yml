@@ -4,8 +4,8 @@ latitude: 47.74664
 longitude: 7.33829
 postcode: "68100"
 city: Mulhouse
-street: "Place de la Réunion"
-housenumber: 25
-phone: "+33 9 73 24 40 26"
-opening_hours: "Mo-Su 10:00-13:00,14:00-18:00"
-website: "https://www.prise-de-bec.com/fr/"
+street: Place de la Réunion
+housenumber: "25"
+phone: +33 9 73 24 40 26
+opening_hours: Mo-Su 10:00-13:00,14:00-18:00
+website: https://www.prise-de-bec.com/fr/

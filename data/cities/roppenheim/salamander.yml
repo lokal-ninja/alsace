@@ -1,11 +1,11 @@
 id: 570306038
-type: way
+type: node
 latitude: 48.83713
 longitude: 8.08702
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.salamander.fr/"
+website: http://www.salamander.fr/

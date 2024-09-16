@@ -1,11 +1,11 @@
 id: 182159519
-type: way
+type: node
 latitude: 47.77632
 longitude: 7.13096
 postcode: "68700"
 city: Aspach-le-Haut
-street: "Grand Rue"
-housenumber: 6
+street: Grand Rue
+housenumber: "6"
 phone: ""
-opening_hours: "07:00-12:00"
+opening_hours: 07:00-12:00
 website: ""

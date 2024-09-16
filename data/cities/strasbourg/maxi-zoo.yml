@@ -4,8 +4,8 @@ latitude: 48.5892
 longitude: 7.69593
 postcode: "67200"
 city: Strasbourg
-street: "Rue Charles Péguy"
-housenumber: 38
+street: Rue Charles Péguy
+housenumber: "38"
 phone: "+33390204690"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.maxizoo.fr/stores/maxi-zoo-strasbourg/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.maxizoo.fr/stores/maxi-zoo-strasbourg/

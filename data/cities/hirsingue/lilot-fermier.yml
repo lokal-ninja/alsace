@@ -4,8 +4,9 @@ latitude: 47.58732
 longitude: 7.25926
 postcode: ""
 city: Hirsingue
-street: "Rue des Merles"
-housenumber: 4
-phone: "+33 3 89 88 36 02"
-opening_hours: "opening_hours=Tu 14:30-18:30; We-Th 09:00-12:30,14:00-18:30; Fr 09:00-18:30; Sa 08:00-18:00; PH off"
-website: "https://www.ilot-fermier.com/"
+street: Rue des Merles
+housenumber: "4"
+phone: +33 3 89 88 36 02
+opening_hours: opening_hours=Tu 14:30-18:30; We-Th 09:00-12:30,14:00-18:30; Fr 09:00-18:30;
+    Sa 08:00-18:00; PH off
+website: https://www.ilot-fermier.com/

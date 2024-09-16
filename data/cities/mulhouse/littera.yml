@@ -4,8 +4,8 @@ latitude: 47.74663
 longitude: 7.33834
 postcode: "68100"
 city: Mulhouse
-street: "Place de la Réunion"
-housenumber: 25
-phone: "+33 3 89 43 80 75"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.littera68.com"
+street: Place de la Réunion
+housenumber: "25"
+phone: +33 3 89 43 80 75
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.littera68.com

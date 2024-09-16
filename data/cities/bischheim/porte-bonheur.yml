@@ -4,8 +4,8 @@ latitude: 48.61436
 longitude: 7.7522
 postcode: "67800"
 city: Bischheim
-street: "Route de Bischwiller"
-housenumber: 33
-phone: "+33 388187311"
-opening_hours: "Tu 15:00-19:00, We-Fr 10:00-13:00,15:00-19:00; Sa 09:00-18:00"
-website: "https://www.portebonheur.eu/"
+street: Route de Bischwiller
+housenumber: "33"
+phone: +33 388187311
+opening_hours: Tu 15:00-19:00, We-Fr 10:00-13:00,15:00-19:00; Sa 09:00-18:00
+website: https://www.portebonheur.eu/

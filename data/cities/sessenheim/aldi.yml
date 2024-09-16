@@ -1,11 +1,11 @@
 id: 202007745
-type: way
+type: node
 latitude: 48.78973
 longitude: 7.98436
 postcode: "67770"
 city: Sessenheim
-street: "Route de Drusenheim"
-housenumber: 
+street: Route de Drusenheim
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

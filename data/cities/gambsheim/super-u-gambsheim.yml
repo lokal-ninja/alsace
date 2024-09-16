@@ -1,11 +1,11 @@
 id: 27044481
-type: way
+type: node
 latitude: 48.69716
 longitude: 7.89019
 postcode: "67760"
 city: Gambsheim
-street: "Route Nationale"
-housenumber: 120
-phone: "+33 3 88 96 74 75"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"
-website: "https://www.magasins-u.com/magasin/superu-gambsheim"
+street: Route Nationale
+housenumber: "120"
+phone: +33 3 88 96 74 75
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00
+website: https://www.magasins-u.com/magasin/superu-gambsheim

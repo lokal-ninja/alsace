@@ -1,11 +1,11 @@
 id: 56053047
-type: way
+type: node
 latitude: 48.77017
 longitude: 7.84344
 postcode: "67240"
 city: Bischwiller
-street: "Rue des Fleuristes"
-housenumber: 12
+street: Rue des Fleuristes
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

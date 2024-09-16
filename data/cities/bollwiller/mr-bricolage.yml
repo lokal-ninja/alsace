@@ -1,11 +1,11 @@
 id: 68136018
-type: way
+type: node
 latitude: 47.86265
 longitude: 7.25693
 postcode: "68540"
 city: Bollwiller
-street: "Route de Guebwiller"
-housenumber: 
+street: Route de Guebwiller
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

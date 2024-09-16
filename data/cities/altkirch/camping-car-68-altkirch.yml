@@ -1,11 +1,11 @@
 id: 715367120
-type: way
+type: node
 latitude: 47.61958
 longitude: 7.22539
 postcode: "68130"
 city: Altkirch
-street: "Route de Carspach"
-housenumber: 57
-phone: "+333 89 07 21 92"
+street: Route de Carspach
+housenumber: "57"
+phone: +333 89 07 21 92
 opening_hours: ""
-website: "https://www.campingcar68.fr/"
+website: https://www.campingcar68.fr/

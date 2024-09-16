@@ -1,11 +1,11 @@
 id: 570068165
-type: way
+type: node
 latitude: 48.83659
 longitude: 8.08662
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
-phone: "+33 388 638109"
-opening_hours: "Mo-Sa 10:00-19:00; Su closed"
-website: "https://www.petit-bateau.fr/s/boutique/381-petit-bateau-roppenheim.html"
+street: Route de l'Europe
+housenumber: "1"
+phone: +33 388 638109
+opening_hours: Mo-Sa 10:00-19:00; Su closed
+website: https://www.petit-bateau.fr/s/boutique/381-petit-bateau-roppenheim.html

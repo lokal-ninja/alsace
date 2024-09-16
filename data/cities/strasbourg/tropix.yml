@@ -4,8 +4,8 @@ latitude: 48.58109
 longitude: 7.69553
 postcode: "67200"
 city: Strasbourg
-street: "Route des Romains"
-housenumber: 222
+street: Route des Romains
+housenumber: "222"
 phone: "+33388300147"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-18:00; Su 10:00-12:00"
-website: "https://www.tropix.fr"
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-18:00; Su 10:00-12:00
+website: https://www.tropix.fr

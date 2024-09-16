@@ -4,8 +4,9 @@ latitude: 47.81212
 longitude: 7.50352
 postcode: "68490"
 city: Bantzenheim
-street: "Rue des Deux Rives"
-housenumber: 5
+street: Rue des Deux Rives
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th,Tu-Fr 09:00-19:00; We 09:00-12:00,14:00-19:00; Sa 09:00-17:00; Su 09:00-13:00"
-website: "https://www.institut-nature-et-bien-etre.com/"
+opening_hours: Mo-Th,Tu-Fr 09:00-19:00; We 09:00-12:00,14:00-19:00; Sa 09:00-17:00;
+    Su 09:00-13:00
+website: https://www.institut-nature-et-bien-etre.com/

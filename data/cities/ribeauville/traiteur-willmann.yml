@@ -4,8 +4,9 @@ latitude: 48.19563
 longitude: 7.31833
 postcode: "68150"
 city: Ribeauvillé
-street: "Rue de l'Abbé Kremp"
-housenumber: 1
+street: Rue de l'Abbé Kremp
+housenumber: "1"
 phone: ""
-opening_hours: "Tu,We 08:00-12:00; Th,Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Tu,We 08:00-12:00; Th,Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:00;
+    Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 200837380
-type: way
+type: node
 latitude: 48.76995
 longitude: 7.87125
 postcode: "67240"
 city: Oberhoffen-sur-Moder
-street: "Rue du Commerce"
-housenumber: 14
+street: Rue du Commerce
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

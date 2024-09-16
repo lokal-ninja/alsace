@@ -4,8 +4,8 @@ latitude: 48.56822
 longitude: 7.75731
 postcode: "67100"
 city: Strasbourg
-street: "Route du Polygone"
-housenumber: 60
+street: Route du Polygone
+housenumber: "60"
 phone: "+33388842303"
-opening_hours: "Mo-Fr 14:00-19:00, Tu-Sa 09:00-12:00"
-website: "https://www.krys.com/opticien/france/bas-rhin/opticien-strasbourg/strasbourg-polygone"
+opening_hours: Mo-Fr 14:00-19:00, Tu-Sa 09:00-12:00
+website: https://www.krys.com/opticien/france/bas-rhin/opticien-strasbourg/strasbourg-polygone

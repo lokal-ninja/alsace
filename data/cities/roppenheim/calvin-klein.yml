@@ -1,11 +1,11 @@
 id: 570306037
-type: way
+type: node
 latitude: 48.83707
 longitude: 8.08711
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.calvinklein.com/"
+website: https://www.calvinklein.com/

@@ -1,11 +1,11 @@
 id: 135516040
-type: way
+type: node
 latitude: 48.47344
 longitude: 7.73063
 postcode: ""
 city: Plobsheim
-street: "Rue du Général Leclerc"
+street: Rue du Général Leclerc
 housenumber: 1B
 phone: "+33355403214"
 opening_hours: ""
-website: "https://www.capvitalite.fr/"
+website: https://www.capvitalite.fr/

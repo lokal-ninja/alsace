@@ -1,11 +1,11 @@
 id: 146552654
-type: way
+type: node
 latitude: 47.60154
 longitude: 7.49554
 postcode: "68730"
 city: Blotzheim
-street: "Rue du Général de Gaulle"
-housenumber: 2
-phone: "+33 3 89 07 56 30"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-13:00"
-website: "http://www.casino-proximite.fr"
+street: Rue du Général de Gaulle
+housenumber: "2"
+phone: +33 3 89 07 56 30
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-13:00
+website: http://www.casino-proximite.fr

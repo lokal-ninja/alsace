@@ -4,8 +4,8 @@ latitude: 48.57873
 longitude: 7.74323
 postcode: "67000"
 city: Strasbourg
-street: "Rue Saint-Marc"
-housenumber: 24
+street: Rue Saint-Marc
+housenumber: "24"
 phone: "+33388361244"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-13:00"
-website: "https://boulangeriehanss.fr/"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-13:00
+website: https://boulangeriehanss.fr/

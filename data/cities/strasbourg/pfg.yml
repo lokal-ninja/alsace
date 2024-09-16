@@ -4,8 +4,8 @@ latitude: 48.57997
 longitude: 7.71512
 postcode: "67200"
 city: Strasbourg
-street: "Allée des Comtes"
-housenumber: 5
-phone: "+33 388305275"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-17:30; Sa 09:00-20:00"
-website: "https://www.pfg.fr/nos-agences/bas-rhin/strasbourg/agence-pompes-funebres-pfg-strasbourg-comtes"
+street: Allée des Comtes
+housenumber: "5"
+phone: +33 388305275
+opening_hours: Mo-Fr 09:00-12:00, 14:00-17:30; Sa 09:00-20:00
+website: https://www.pfg.fr/nos-agences/bas-rhin/strasbourg/agence-pompes-funebres-pfg-strasbourg-comtes

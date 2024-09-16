@@ -4,8 +4,8 @@ latitude: 48.58249
 longitude: 7.77296
 postcode: "67000"
 city: Strasbourg
-street: "Avenue de la Forêt Noire"
-housenumber: 70
+street: Avenue de la Forêt Noire
+housenumber: "70"
 phone: "+33388601161"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
-website: "https://www.copyweb.eu/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00
+website: https://www.copyweb.eu/

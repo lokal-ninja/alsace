@@ -1,11 +1,11 @@
 id: 44508360
-type: way
+type: node
 latitude: 48.86702
 longitude: 7.19134
 postcode: "67320"
 city: Drulingen
-street: "Rue du Général Leclerc"
-housenumber: 10
-phone: "09 53 20 16 11"
-opening_hours: "Tu-Fr 05:30-17:30; Sa 06:30-13:00; Su 07:00-11:00"
+street: Rue du Général Leclerc
+housenumber: "10"
+phone: 09 53 20 16 11
+opening_hours: Tu-Fr 05:30-17:30; Sa 06:30-13:00; Su 07:00-11:00
 website: ""

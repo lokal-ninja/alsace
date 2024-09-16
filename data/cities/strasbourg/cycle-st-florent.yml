@@ -4,8 +4,8 @@ latitude: 48.59114
 longitude: 7.71754
 postcode: "67200"
 city: Strasbourg
-street: "Route Marcel Proust"
-housenumber: 24
+street: Route Marcel Proust
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-13:00
 website: ""

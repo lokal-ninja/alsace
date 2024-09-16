@@ -4,8 +4,8 @@ latitude: 48.93331
 longitude: 7.74858
 postcode: "67360"
 city: Wœrth
-street: "Rue de la Sauer"
-housenumber: 9
-phone: "+33 3 88 54 38 81"
-opening_hours: "Mo-Th 09:00-12:00,14:00-19:00; Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00,14:00-17:00"
-website: "optique.woerth@orange.fr"
+street: Rue de la Sauer
+housenumber: "9"
+phone: +33 3 88 54 38 81
+opening_hours: Mo-Th 09:00-12:00,14:00-19:00; Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00,14:00-17:00
+website: optique.woerth@orange.fr

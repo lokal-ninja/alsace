@@ -1,11 +1,11 @@
 id: 570068182
-type: way
+type: node
 latitude: 48.83736
 longitude: 8.08709
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
-phone: "+33 388 549638"
+street: Route de l'Europe
+housenumber: "1"
+phone: +33 388 549638
 opening_hours: ""
-website: "https://www.laboutiqueharibo.fr"
+website: https://www.laboutiqueharibo.fr

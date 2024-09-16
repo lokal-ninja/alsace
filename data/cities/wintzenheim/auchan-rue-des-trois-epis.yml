@@ -1,11 +1,11 @@
 id: 135404691
-type: way
+type: node
 latitude: 48.07111
 longitude: 7.29738
 postcode: "68920"
 city: Wintzenheim
-street: "Rue des Trois Épis"
-housenumber: 
+street: Rue des Trois Épis
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 570068186
-type: way
+type: node
 latitude: 48.83735
 longitude: 8.08642
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
-phone: "+33 388 093063"
+street: Route de l'Europe
+housenumber: "1"
+phone: +33 388 093063
 opening_hours: ""
 website: ""

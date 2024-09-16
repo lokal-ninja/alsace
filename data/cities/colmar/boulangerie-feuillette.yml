@@ -4,8 +4,8 @@ latitude: 48.08268
 longitude: 7.36383
 postcode: "68000"
 city: Colmar
-street: "Route de Selestat"
-housenumber: 8
-phone: "+33 3 89 20 71 75"
-opening_hours: "07:00-20:00"
-website: "https://www.feuillette.fr/"
+street: Route de Selestat
+housenumber: "8"
+phone: +33 3 89 20 71 75
+opening_hours: 07:00-20:00
+website: https://www.feuillette.fr/

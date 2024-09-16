@@ -4,8 +4,8 @@ latitude: 48.57746
 longitude: 7.77088
 postcode: "67000"
 city: Strasbourg
-street: "Rue de Boston"
-housenumber: 11
-phone: "+33 3 90 410 410"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.licesergecomtesse.com/"
+street: Rue de Boston
+housenumber: "11"
+phone: +33 3 90 410 410
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.licesergecomtesse.com/

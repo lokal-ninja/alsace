@@ -1,11 +1,11 @@
 id: 59096804
-type: way
+type: node
 latitude: 48.6232
 longitude: 7.72668
 postcode: "67460"
 city: Souffelweyersheim
-street: "Rue des Tuileries"
-housenumber: 42
-phone: "+33 3 90 20 31 00"
+street: Rue des Tuileries
+housenumber: "42"
+phone: +33 3 90 20 31 00
 opening_hours: ""
-website: "https://volvocars-concessions.com/strasbourg"
+website: https://volvocars-concessions.com/strasbourg

@@ -1,11 +1,11 @@
 id: 70798514
-type: way
+type: node
 latitude: 47.9282
 longitude: 7.18677
 postcode: "68530"
 city: Buhl
-street: "Rue de la Gare"
-housenumber: 2
+street: Rue de la Gare
+housenumber: "2"
 phone: "+33389769195"
 opening_hours: ""
 website: ""

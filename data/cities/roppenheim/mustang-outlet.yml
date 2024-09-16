@@ -1,11 +1,11 @@
 id: 570068160
-type: way
+type: node
 latitude: 48.83667
 longitude: 8.08762
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.mustang-jeans.com/"
+website: https://www.mustang-jeans.com/

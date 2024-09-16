@@ -1,11 +1,11 @@
 id: 570068180
-type: way
+type: node
 latitude: 48.83733
 longitude: 8.08729
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
-phone: "+33 3 88 07 87 27"
+street: Route de l'Europe
+housenumber: "1"
+phone: +33 3 88 07 87 27
 opening_hours: ""
-website: "https://www.traditiondesvosges.com/fr/magasins?magasin=15-roppenheim"
+website: https://www.traditiondesvosges.com/fr/magasins?magasin=15-roppenheim

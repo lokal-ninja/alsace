@@ -1,11 +1,11 @@
 id: 95990687
-type: way
+type: node
 latitude: 48.55667
 longitude: 7.68123
 postcode: "67380"
 city: Lingolsheim
-street: "Rue du Maréchal Foch"
-housenumber: 102
-phone: "+33 3 88 78 06 45"
-opening_hours: "Tu-Fr 06:00-14:00,15:00-18:00; Sa 06:00-14:00; Su 07:30-12:30"
+street: Rue du Maréchal Foch
+housenumber: "102"
+phone: +33 3 88 78 06 45
+opening_hours: Tu-Fr 06:00-14:00,15:00-18:00; Sa 06:00-14:00; Su 07:30-12:30
 website: ""

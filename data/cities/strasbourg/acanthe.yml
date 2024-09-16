@@ -4,8 +4,8 @@ latitude: 48.58694
 longitude: 7.76795
 postcode: "67000"
 city: Strasbourg
-street: "Rue Geiler"
-housenumber: 19
-phone: "+33 3 88 61 39 19"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://acanthe.net"
+street: Rue Geiler
+housenumber: "19"
+phone: +33 3 88 61 39 19
+opening_hours: Mo-Sa 10:00-19:00
+website: https://acanthe.net

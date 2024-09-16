@@ -4,8 +4,8 @@ latitude: 48.57884
 longitude: 7.7587
 postcode: "67000"
 city: Strasbourg
-street: "Rue de Zurich"
-housenumber: 58
+street: Rue de Zurich
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 12:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 12:00-17:00
 website: ""

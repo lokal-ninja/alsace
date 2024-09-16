@@ -4,8 +4,8 @@ latitude: 48.57991
 longitude: 7.7498
 postcode: "67000"
 city: Strasbourg
-street: "Rue du Vieux Marché aux Poissons"
-housenumber: 3
-phone: "+33 3 88 32 04 88"
-opening_hours: "Mo 10:00-18:00; Tu-Sa 09:00-19:00"
-website: "https://coiffirst.com"
+street: Rue du Vieux Marché aux Poissons
+housenumber: "3"
+phone: +33 3 88 32 04 88
+opening_hours: Mo 10:00-18:00; Tu-Sa 09:00-19:00
+website: https://coiffirst.com

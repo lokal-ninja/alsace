@@ -4,8 +4,8 @@ latitude: 48.59225
 longitude: 7.71905
 postcode: "67200"
 city: Strasbourg
-street: "Route d'Oberhausbergen"
-housenumber: 42
-phone: "+33 6 42 51 17 62"
-opening_hours: "Mo,We 10:00-18:00; Tu 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-16:30"
-website: "https://www.belleevasion-institut.fr"
+street: Route d'Oberhausbergen
+housenumber: "42"
+phone: +33 6 42 51 17 62
+opening_hours: Mo,We 10:00-18:00; Tu 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-16:30
+website: https://www.belleevasion-institut.fr

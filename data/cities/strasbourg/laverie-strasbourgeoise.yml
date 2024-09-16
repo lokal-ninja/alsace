@@ -4,8 +4,8 @@ latitude: 48.56962
 longitude: 7.75652
 postcode: "67100"
 city: Strasbourg
-street: "Route du Polygone"
-housenumber: 38
+street: Route du Polygone
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://laverie-strasbourg.edan.io/"
+opening_hours: Mo-Su 07:00-21:00
+website: https://laverie-strasbourg.edan.io/

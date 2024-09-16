@@ -4,8 +4,8 @@ latitude: 48.67652
 longitude: 7.85912
 postcode: "67840"
 city: Kilstett
-street: "Rue du Lieutenant de Bettignies"
-housenumber: 18
-phone: "+33 6 07 40 79 38"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "http://lemarchedelsa.fr/"
+street: Rue du Lieutenant de Bettignies
+housenumber: "18"
+phone: +33 6 07 40 79 38
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:30-16:00
+website: http://lemarchedelsa.fr/

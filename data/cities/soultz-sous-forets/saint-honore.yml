@@ -1,11 +1,11 @@
 id: 179127095
-type: way
+type: node
 latitude: 48.93666
 longitude: 7.88427
 postcode: "67250"
 city: Soultz-sous-Forêts
-street: "Rue du Docteur Michel Deutsch"
-housenumber: 26
+street: Rue du Docteur Michel Deutsch
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

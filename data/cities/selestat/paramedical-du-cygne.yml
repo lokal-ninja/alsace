@@ -4,8 +4,8 @@ latitude: 48.28027
 longitude: 7.46113
 postcode: "67600"
 city: Sélestat
-street: "Rue de la Maison Rouge"
-housenumber: 13
-phone: "+33 3 88 92 92 00"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Su 09:00-12:00,14:00-16:00"
-website: "https://www.paramedical-du-cygne-selestat.fr/"
+street: Rue de la Maison Rouge
+housenumber: "13"
+phone: +33 3 88 92 92 00
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Su 09:00-12:00,14:00-16:00
+website: https://www.paramedical-du-cygne-selestat.fr/

@@ -1,11 +1,11 @@
 id: 52403587
-type: way
+type: node
 latitude: 48.82708
 longitude: 7.75792
 postcode: "67500"
 city: Haguenau
-street: "Route de Bitche"
-housenumber: 101
+street: Route de Bitche
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

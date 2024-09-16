@@ -4,8 +4,9 @@ latitude: 48.35949
 longitude: 7.46336
 postcode: "67680"
 city: Epfig
-street: "Rue de l'Église"
-housenumber: 17
+street: Rue de l'Église
+housenumber: "17"
 phone: ""
-opening_hours: "Mo 09:30-12:00, 14:00-18:00; Tu,Th,Fr 09:30-12:00, 14:00-18:30; We 09:30-12:00; Mar-Dec Sa 14:00-17:00"
+opening_hours: Mo 09:30-12:00, 14:00-18:00; Tu,Th,Fr 09:30-12:00, 14:00-18:30; We
+    09:30-12:00; Mar-Dec Sa 14:00-17:00
 website: ""

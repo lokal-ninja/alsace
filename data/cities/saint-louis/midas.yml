@@ -4,8 +4,8 @@ latitude: 47.59411
 longitude: 7.55543
 postcode: "68300"
 city: Saint-Louis
-street: "Rue de Mulhouse"
-housenumber: 111
-phone: "+33 3 89 67 54 44"
+street: Rue de Mulhouse
+housenumber: "111"
+phone: +33 3 89 67 54 44
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

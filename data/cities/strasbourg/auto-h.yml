@@ -1,11 +1,11 @@
 id: 283727980
-type: way
+type: node
 latitude: 48.55467
 longitude: 7.76797
 postcode: "67100"
 city: Strasbourg
-street: "Rue Paul Dopff"
-housenumber: 10
-phone: "+33 3 90 40 42 00"
+street: Rue Paul Dopff
+housenumber: "10"
+phone: +33 3 90 40 42 00
 opening_hours: ""
 website: ""

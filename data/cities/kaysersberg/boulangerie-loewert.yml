@@ -4,8 +4,8 @@ latitude: 48.13892
 longitude: 7.26241
 postcode: "68240"
 city: Kaysersberg
-street: "Rue du Général de Gaulle"
-housenumber: 65
-phone: "+33 389473112"
-opening_hours: "Mo-We,Fr,Sa 06:45-12:30,14:15-19:00; Th,Su off"
+street: Rue du Général de Gaulle
+housenumber: "65"
+phone: +33 389473112
+opening_hours: Mo-We,Fr,Sa 06:45-12:30,14:15-19:00; Th,Su off
 website: ""

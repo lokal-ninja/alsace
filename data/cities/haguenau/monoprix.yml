@@ -4,8 +4,8 @@ latitude: 48.81399
 longitude: 7.78868
 postcode: "67501"
 city: Haguenau
-street: "Rue Georges Clemenceau"
-housenumber: 2
-phone: "+33 3 88 93 94 40"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.monoprix.fr/231.html"
+street: Rue Georges Clemenceau
+housenumber: "2"
+phone: +33 3 88 93 94 40
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.monoprix.fr/231.html

@@ -1,11 +1,11 @@
 id: 186478839
-type: way
+type: node
 latitude: 47.74414
 longitude: 7.39947
 postcode: "68170"
 city: Rixheim
-street: "Grand Rue"
-housenumber: 32
+street: Grand Rue
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:00"
+opening_hours: Mo-Sa 06:30-19:00
 website: ""

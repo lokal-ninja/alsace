@@ -4,8 +4,8 @@ latitude: 48.58421
 longitude: 7.77566
 postcode: "67000"
 city: Strasbourg
-street: "Rue de l'Yser"
-housenumber: 6
-phone: "+33 3 88 34 36 55"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 09:00-15:00"
-website: "https://cycl-ollier-veloplus-bike-avenue.fr/"
+street: Rue de l'Yser
+housenumber: "6"
+phone: +33 3 88 34 36 55
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00; Sa 09:00-15:00
+website: https://cycl-ollier-veloplus-bike-avenue.fr/

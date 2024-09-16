@@ -4,8 +4,8 @@ latitude: 48.5758
 longitude: 7.75673
 postcode: "67000"
 city: Strasbourg
-street: "Rue de Lausanne"
-housenumber: 21
+street: Rue de Lausanne
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.arpeges-armand-meyer.fr/"
+website: https://www.arpeges-armand-meyer.fr/

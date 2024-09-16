@@ -4,8 +4,8 @@ latitude: 48.82355
 longitude: 8.02985
 postcode: "67480"
 city: Rœschwoog
-street: "Rue Immenlach"
-housenumber: 3
-phone: "+33 3 88 86 41 16"
-opening_hours: "Mo-Fr 07:30-12:30,14:00-18:00; Th 07:30-12:30; Sa 07:30-13:00"
-website: "http://www.boucherie-etwein.com/"
+street: Rue Immenlach
+housenumber: "3"
+phone: +33 3 88 86 41 16
+opening_hours: Mo-Fr 07:30-12:30,14:00-18:00; Th 07:30-12:30; Sa 07:30-13:00
+website: http://www.boucherie-etwein.com/

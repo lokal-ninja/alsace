@@ -4,8 +4,8 @@ latitude: 48.82979
 longitude: 7.96389
 postcode: "67620"
 city: Soufflenheim
-street: "Grand Rue"
-housenumber: 19
-phone: "+33 3 88 86 78 91"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 10:00-12:00,14:00-17:00"
+street: Grand Rue
+housenumber: "19"
+phone: +33 3 88 86 78 91
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 10:00-12:00,14:00-17:00
 website: ""

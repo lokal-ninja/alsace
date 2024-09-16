@@ -1,11 +1,11 @@
 id: 79200285
-type: way
+type: node
 latitude: 48.1078
 longitude: 7.28401
 postcode: "68230"
 city: Katzenthal
-street: "Grand'Rue"
-housenumber: 9
+street: Grand'Rue
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

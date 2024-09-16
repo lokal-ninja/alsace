@@ -1,11 +1,11 @@
 id: 192371406
-type: way
+type: node
 latitude: 48.90233
 longitude: 7.95594
 postcode: "67690"
 city: Rittershoffen
-street: "Route de Hatten"
+street: Route de Hatten
 housenumber: 160A
-phone: "+33 3 88 05 04 39"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:00"
-website: "https://www.mylfleurs.com"
+phone: +33 3 88 05 04 39
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:00
+website: https://www.mylfleurs.com

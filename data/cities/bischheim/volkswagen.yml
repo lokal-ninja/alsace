@@ -1,11 +1,11 @@
 id: 397365019
-type: way
+type: node
 latitude: 48.61837
 longitude: 7.73054
 postcode: "67800"
 city: Bischheim
-street: "Rue Émile Mathis"
-housenumber: 7
+street: Rue Émile Mathis
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

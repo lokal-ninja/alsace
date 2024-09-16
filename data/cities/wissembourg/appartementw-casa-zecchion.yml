@@ -4,8 +4,8 @@ latitude: 49.03597
 longitude: 7.9445
 postcode: "67160"
 city: Wissembourg
-street: "Rue de la République"
-housenumber: 20
-phone: "+33 367 310 805"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-12:00,13:30-16:00"
-website: "https://www.appartementw.com/"
+street: Rue de la République
+housenumber: "20"
+phone: +33 367 310 805
+opening_hours: Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-12:00,13:30-16:00
+website: https://www.appartementw.com/

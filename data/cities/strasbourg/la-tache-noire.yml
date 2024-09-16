@@ -4,8 +4,8 @@ latitude: 48.58197
 longitude: 7.75655
 postcode: "67000"
 city: Strasbourg
-street: "Rue de Zurich"
-housenumber: 1
+street: Rue de Zurich
+housenumber: "1"
 phone: "+33388226792"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://latachenoire.com"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://latachenoire.com

@@ -4,8 +4,8 @@ latitude: 48.59288
 longitude: 7.66759
 postcode: "67202"
 city: Wolfisheim
-street: "Rue du Commerce"
-housenumber: 3
-phone: "+33 3 88 78 67 06"
-opening_hours: "Mo 14:00-18:30; Tu-Sa 09:00-12:00,14:00-18:30"
-website: "https://meubles-steinmetz.fr/"
+street: Rue du Commerce
+housenumber: "3"
+phone: +33 3 88 78 67 06
+opening_hours: Mo 14:00-18:30; Tu-Sa 09:00-12:00,14:00-18:30
+website: https://meubles-steinmetz.fr/

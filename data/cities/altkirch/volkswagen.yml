@@ -1,11 +1,11 @@
 id: 173124423
-type: way
+type: node
 latitude: 47.62983
 longitude: 7.23054
 postcode: "68130"
 city: Altkirch
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.espace3000.fr/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://www.espace3000.fr/

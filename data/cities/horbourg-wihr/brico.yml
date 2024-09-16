@@ -1,11 +1,11 @@
 id: 480870886
-type: way
+type: node
 latitude: 48.07545
 longitude: 7.40379
 postcode: "68180"
 city: Horbourg-Wihr
-street: "Rue de Mulhouse"
-housenumber: 1
+street: Rue de Mulhouse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

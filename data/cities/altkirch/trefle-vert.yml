@@ -1,11 +1,11 @@
 id: 173125255
-type: way
+type: node
 latitude: 47.62717
 longitude: 7.23627
 postcode: "68130"
 city: Altkirch
-street: "Rue de l'Ill"
-housenumber: 12
-phone: "+33 3 89 40 16 02"
+street: Rue de l'Ill
+housenumber: "12"
+phone: +33 3 89 40 16 02
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 464272593
-type: way
+type: node
 latitude: 47.64932
 longitude: 7.26384
 postcode: "68130"
 city: Walheim
-street: "Grand'Rue"
-housenumber: 141
+street: Grand'Rue
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00 13:30-18:00"
-website: "https://www.espritauto.fr/"
+opening_hours: Mo-Fr 08:00-12:00 13:30-18:00
+website: https://www.espritauto.fr/

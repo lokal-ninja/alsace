@@ -1,11 +1,11 @@
 id: 60748884
-type: way
+type: node
 latitude: 48.591
 longitude: 7.66949
 postcode: "67202"
 city: Wolfisheim
-street: "Rue Charles Adolphe Wurtz"
-housenumber: 2
-phone: "+33 3 88 14 48 48"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-19:30"
-website: "https://paris-store.com/store#WOLFI"
+street: Rue Charles Adolphe Wurtz
+housenumber: "2"
+phone: +33 3 88 14 48 48
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-19:30
+website: https://paris-store.com/store#WOLFI

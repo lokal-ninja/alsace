@@ -1,11 +1,11 @@
 id: 1192032435
-type: way
+type: node
 latitude: 47.62686
 longitude: 7.236
 postcode: "68130"
 city: Altkirch
-street: "Rue de l'Ill"
-housenumber: 10
+street: Rue de l'Ill
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

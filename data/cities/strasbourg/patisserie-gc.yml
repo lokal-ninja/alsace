@@ -4,8 +4,8 @@ latitude: 48.58985
 longitude: 7.74977
 postcode: "67000"
 city: Strasbourg
-street: "Avenue des Vosges"
-housenumber: 55
+street: Avenue des Vosges
+housenumber: "55"
 phone: "+33367109550"
-opening_hours: "Tu-Sa 07:30-19:30; Su 08:00-13:00"
-website: "https://patisserie-gc.fr"
+opening_hours: Tu-Sa 07:30-19:30; Su 08:00-13:00
+website: https://patisserie-gc.fr

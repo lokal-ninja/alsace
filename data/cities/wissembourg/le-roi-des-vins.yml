@@ -1,11 +1,11 @@
 id: 416737099
-type: way
+type: node
 latitude: 49.02983
 longitude: 7.96146
 postcode: "67160"
 city: Wissembourg
-street: "Rue Marie Gross-Herrel"
-housenumber: 5
+street: Rue Marie Gross-Herrel
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

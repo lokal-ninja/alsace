@@ -1,11 +1,11 @@
 id: 570068188
-type: way
+type: node
 latitude: 48.83765
 longitude: 8.08631
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.converse.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.converse.com/

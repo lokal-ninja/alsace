@@ -4,8 +4,8 @@ latitude: 48.93637
 longitude: 7.74342
 postcode: "67360"
 city: Wœrth
-street: "Route de Haguenau"
-housenumber: 10
-phone: "+33 6 79 66 41 35"
-opening_hours: "Mo,We,Fr 15:30-18:50; Sa 08:30-13:30"
+street: Route de Haguenau
+housenumber: "10"
+phone: +33 6 79 66 41 35
+opening_hours: Mo,We,Fr 15:30-18:50; Sa 08:30-13:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.07752
 longitude: 7.35693
 postcode: "68000"
 city: COLMAR
-street: "Rue des Marchands"
-housenumber: 5
-phone: "+33 3 89 23 57 56"
-opening_hours: "Tu-Fr 09:30-12:30, 14:00-19:00; Sa 09:30-19:00"
-website: "https://www.facebook.com/LibrairieFeuillesdEncre"
+street: Rue des Marchands
+housenumber: "5"
+phone: +33 3 89 23 57 56
+opening_hours: Tu-Fr 09:30-12:30, 14:00-19:00; Sa 09:30-19:00
+website: https://www.facebook.com/LibrairieFeuillesdEncre

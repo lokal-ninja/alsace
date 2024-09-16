@@ -1,11 +1,11 @@
 id: 416081292
-type: way
+type: node
 latitude: 47.80948
 longitude: 7.17417
 postcode: "68700"
 city: Cernay
-street: "Rue de Thann"
-housenumber: 1
+street: Rue de Thann
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

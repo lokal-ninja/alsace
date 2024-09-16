@@ -1,11 +1,11 @@
 id: 158555815
-type: way
+type: node
 latitude: 48.84516
 longitude: 7.61253
 postcode: "67350"
 city: Pfaffenhoffen
-street: "Rue du Docteur Albert Schweitzer"
-housenumber: 
+street: Rue du Docteur Albert Schweitzer
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 182499144
-type: way
+type: node
 latitude: 47.74662
 longitude: 7.23214
 postcode: "68950"
 city: Reiningue
-street: "Rue de Heimsbrunn"
-housenumber: 12
-phone: "+33 892 490084"
-opening_hours: "Tu-Fr 9:00-12:00, 14:00-18:00; Sa 9:00-12:00, 14:00-17:00; Su-Mo off"
-website: "https://www.kuttler.fr"
+street: Rue de Heimsbrunn
+housenumber: "12"
+phone: +33 892 490084
+opening_hours: Tu-Fr 9:00-12:00, 14:00-18:00; Sa 9:00-12:00, 14:00-17:00; Su-Mo off
+website: https://www.kuttler.fr

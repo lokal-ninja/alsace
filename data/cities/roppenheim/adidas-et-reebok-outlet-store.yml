@@ -1,11 +1,11 @@
 id: 570068177
-type: way
+type: node
 latitude: 48.83766
 longitude: 8.08752
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
-phone: "+33 388 058100"
+street: Route de l'Europe
+housenumber: "1"
+phone: +33 388 058100
 opening_hours: ""
-website: "https://www.reebok.fr/fr-fr/Localisateur-Reebok/Magasin/FR181630"
+website: https://www.reebok.fr/fr-fr/Localisateur-Reebok/Magasin/FR181630

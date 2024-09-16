@@ -4,8 +4,8 @@ latitude: 47.90578
 longitude: 6.9747
 postcode: ""
 city: Oderen
-street: "Grand'Rue"
-housenumber: 20
-phone: "06 81 55 52 04"
-opening_hours: "Tu-Fr 09:30-12:00, 14:00-18:00; Sa 9:30-12:00,14:00-17:00"
+street: Grand'Rue
+housenumber: "20"
+phone: 06 81 55 52 04
+opening_hours: Tu-Fr 09:30-12:00, 14:00-18:00; Sa 9:30-12:00,14:00-17:00
 website: ""

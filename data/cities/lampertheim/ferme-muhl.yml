@@ -4,8 +4,8 @@ latitude: 48.65084
 longitude: 7.7
 postcode: "67450"
 city: Lampertheim
-street: "Rue de Pfettisheim"
-housenumber: 2
+street: Rue de Pfettisheim
+housenumber: "2"
 phone: "+33388200339"
-opening_hours: "We-Fr 09:00-12:00,15:00-18:30; Sa 08:30-13:30"
-website: "http://fermemuhl.fr/"
+opening_hours: We-Fr 09:00-12:00,15:00-18:30; Sa 08:30-13:30
+website: http://fermemuhl.fr/

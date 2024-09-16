@@ -1,11 +1,11 @@
 id: 47271367
-type: way
+type: node
 latitude: 48.65456
 longitude: 7.72065
 postcode: "67450"
 city: Lampertheim
-street: "Rue du Chemin de Fer"
-housenumber: 1
+street: Rue du Chemin de Fer
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/lampertheim/"
+website: https://nozarrivages.com/magasin/lampertheim/

@@ -1,11 +1,11 @@
 id: 58600172
-type: way
+type: node
 latitude: 48.63097
 longitude: 7.77453
 postcode: "67800"
 city: Bischheim
-street: "Rue de l'Atome"
-housenumber: 14
-phone: "+33 3 88 18 15 61"
-opening_hours: "Tu-Sa 11:00-18:00"
-website: "https://emmaus-mundo.com/"
+street: Rue de l'Atome
+housenumber: "14"
+phone: +33 3 88 18 15 61
+opening_hours: Tu-Sa 11:00-18:00
+website: https://emmaus-mundo.com/

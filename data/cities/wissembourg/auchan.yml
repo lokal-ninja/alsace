@@ -1,11 +1,11 @@
 id: 141636115
-type: way
+type: node
 latitude: 49.03525
 longitude: 7.95338
 postcode: "67160"
 city: Wissembourg
-street: "Rue des Quatre Vents"
-housenumber: 2
+street: Rue des Quatre Vents
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-19:00"
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-19:00
 website: ""

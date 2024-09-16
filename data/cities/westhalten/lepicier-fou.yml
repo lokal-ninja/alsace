@@ -4,8 +4,8 @@ latitude: 47.95251
 longitude: 7.26336
 postcode: "68250"
 city: Westhalten
-street: "Rue des Fleurs"
-housenumber: 3
+street: Rue des Fleurs
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.epicierfou.fr/"
+opening_hours: 24/7
+website: https://www.epicierfou.fr/

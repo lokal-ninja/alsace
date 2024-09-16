@@ -1,11 +1,11 @@
 id: 397365011
-type: way
+type: node
 latitude: 48.61919
 longitude: 7.72779
 postcode: "67800"
 city: Bischheim
-street: "Rue Émile Mathis"
-housenumber: 10
-phone: "+33 3 88 37 54 54"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.kroely.mercedes-benz.fr"
+street: Rue Émile Mathis
+housenumber: "10"
+phone: +33 3 88 37 54 54
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.kroely.mercedes-benz.fr

@@ -4,8 +4,8 @@ latitude: 48.58021
 longitude: 7.74627
 postcode: "67000"
 city: Strasbourg
-street: "Rue des Serruriers"
-housenumber: 9
-phone: "+33 389 218510"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.maison-alsacienne-biscuiterie.com"
+street: Rue des Serruriers
+housenumber: "9"
+phone: +33 389 218510
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.maison-alsacienne-biscuiterie.com

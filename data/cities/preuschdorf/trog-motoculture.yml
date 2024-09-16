@@ -4,8 +4,8 @@ latitude: 48.94276
 longitude: 7.806
 postcode: "67250"
 city: Preuschdorf
-street: "Rue du Stade"
-housenumber: 5
-phone: "03 88 80 77 53"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00; Su 11:00-12:00; PH 11:00-12:00"
-website: "https://trog-motoculture.fr/"
+street: Rue du Stade
+housenumber: "5"
+phone: 03 88 80 77 53
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00; Su 11:00-12:00; PH 11:00-12:00
+website: https://trog-motoculture.fr/

@@ -1,11 +1,11 @@
 id: 179127364
-type: way
+type: node
 latitude: 48.93855
 longitude: 7.88089
 postcode: "67250"
 city: Soultz-sous-Forêts
-street: "Rue des Barons de Fleckenstein"
-housenumber: 40
+street: Rue des Barons de Fleckenstein
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

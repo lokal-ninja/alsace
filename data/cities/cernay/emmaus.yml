@@ -1,11 +1,11 @@
 id: 619749406
-type: way
+type: node
 latitude: 47.79762
 longitude: 7.16247
 postcode: "68700"
 city: Cernay
-street: "Avenue d'Alsace"
-housenumber: 18
-phone: "+33 3 89 75 45 35"
-opening_hours: "We,Sa 09:00-12:00, 14:00-17:00"
-website: "https://emmaus-cernay68.org/"
+street: Avenue d'Alsace
+housenumber: "18"
+phone: +33 3 89 75 45 35
+opening_hours: We,Sa 09:00-12:00, 14:00-17:00
+website: https://emmaus-cernay68.org/

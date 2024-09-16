@@ -4,8 +4,8 @@ latitude: 48.82258
 longitude: 7.4147
 postcode: "67330"
 city: Neuwiller-lès-Saverne
-street: "Rue de la Gare"
-housenumber: 7
+street: Rue de la Gare
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:00; Tu-Fr 14:00-18:00; Sa 14:00-17:00"
-website: "https://www.fermeherrenstein.fr/"
+opening_hours: Tu-Sa 10:00-12:00; Tu-Fr 14:00-18:00; Sa 14:00-17:00
+website: https://www.fermeherrenstein.fr/

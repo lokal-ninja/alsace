@@ -1,11 +1,11 @@
 id: 57735241
-type: way
+type: node
 latitude: 48.62205
 longitude: 7.72972
 postcode: "67800"
 city: Hœnheim
-street: "Rue Émile Mathis"
+street: Rue Émile Mathis
 housenumber: 1a
-phone: "+33 3 88 65 62 00"
+phone: +33 3 88 65 62 00
 opening_hours: ""
-website: "https://concessions.peugeot.fr/grand-est-strasbourg-nord/"
+website: https://concessions.peugeot.fr/grand-est-strasbourg-nord/

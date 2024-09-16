@@ -4,8 +4,8 @@ latitude: 48.54087
 longitude: 7.49217
 postcode: "67120"
 city: Molsheim
-street: "Rue de Strasbourg"
-housenumber: 7
+street: Rue de Strasbourg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:30"
-website: "https://pourquoipasunlivre.fr"
+opening_hours: Mo-Sa 10:00-18:30
+website: https://pourquoipasunlivre.fr

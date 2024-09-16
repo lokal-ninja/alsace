@@ -4,8 +4,9 @@ latitude: 48.76193
 longitude: 7.95111
 postcode: "67410"
 city: Drusenheim
-street: "Rue du Général de Gaulle"
-housenumber: 59
-phone: "+33 3 88 53 10 22"
-opening_hours: "Tu, We, Fr 08:00-12:00, 14:00-18:00; Th 09:00-12:00, 14:00-20:00; Sa 08:00-16:00"
+street: Rue du Général de Gaulle
+housenumber: "59"
+phone: +33 3 88 53 10 22
+opening_hours: Tu, We, Fr 08:00-12:00, 14:00-18:00; Th 09:00-12:00, 14:00-20:00; Sa
+    08:00-16:00
 website: ""

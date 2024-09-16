@@ -1,11 +1,11 @@
 id: 570068162
-type: way
+type: node
 latitude: 48.83672
 longitude: 8.08726
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
-phone: "+33 388 803752"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.tom-tailor-group.com/"
+street: Route de l'Europe
+housenumber: "1"
+phone: +33 388 803752
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.tom-tailor-group.com/

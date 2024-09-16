@@ -1,11 +1,11 @@
 id: 570306026
-type: way
+type: node
 latitude: 48.83696
 longitude: 8.0878
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.mephisto.com/"
+website: https://www.mephisto.com/

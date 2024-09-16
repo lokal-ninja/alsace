@@ -4,8 +4,8 @@ latitude: 48.57766
 longitude: 7.77093
 postcode: "67000"
 city: Strasbourg
-street: "Rue de Leicester"
-housenumber: 4
-phone: "+33 3 88 34 07 52"
-opening_hours: "Mo-Sa 08:30-19:30"
+street: Rue de Leicester
+housenumber: "4"
+phone: +33 3 88 34 07 52
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

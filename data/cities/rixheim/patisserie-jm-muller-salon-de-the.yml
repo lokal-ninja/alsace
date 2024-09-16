@@ -4,8 +4,8 @@ latitude: 47.74493
 longitude: 7.39953
 postcode: "68170"
 city: Rixheim
-street: "Rue Zuber"
-housenumber: 1
-phone: "+333 89 54 34 38"
-opening_hours: "Tu-Fr 07:00-18:45; Sa 07:00-18:00; Su 08:30-14:00"
-website: "https://patisserie-muller.fr/"
+street: Rue Zuber
+housenumber: "1"
+phone: +333 89 54 34 38
+opening_hours: Tu-Fr 07:00-18:45; Sa 07:00-18:00; Su 08:30-14:00
+website: https://patisserie-muller.fr/

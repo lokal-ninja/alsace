@@ -4,8 +4,8 @@ latitude: 48.72947
 longitude: 7.71358
 postcode: "67170"
 city: Brumath
-street: "Rue du Général Rampont"
-housenumber: 25
-phone: "+33 3 88 52 44 96"
-opening_hours: "Tu-Fr 05:30-12:30, 15:30-19:30; Sa 06:00-13:00; Su 07:00-12:00"
+street: Rue du Général Rampont
+housenumber: "25"
+phone: +33 3 88 52 44 96
+opening_hours: Tu-Fr 05:30-12:30, 15:30-19:30; Sa 06:00-13:00; Su 07:00-12:00
 website: ""

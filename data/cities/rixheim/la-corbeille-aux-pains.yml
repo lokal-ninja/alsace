@@ -4,8 +4,8 @@ latitude: 47.76449
 longitude: 7.39474
 postcode: "68170"
 city: Rixheim
-street: "Rue de l'Île Napoléon"
-housenumber: 171
-phone: "+33 3 89 61 98 62"
-opening_hours: "Mo-Th 04:30-13:00,15:30-19:00; Fr 04:30-18:00; Sa 05:00-17:00"
-website: "https://www.lcap.eu"
+street: Rue de l'Île Napoléon
+housenumber: "171"
+phone: +33 3 89 61 98 62
+opening_hours: Mo-Th 04:30-13:00,15:30-19:00; Fr 04:30-18:00; Sa 05:00-17:00
+website: https://www.lcap.eu

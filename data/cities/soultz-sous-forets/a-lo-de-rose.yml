@@ -1,11 +1,11 @@
 id: 179127413
-type: way
+type: node
 latitude: 48.93768
 longitude: 7.88355
 postcode: "67250"
 city: Soultz-sous-Forêts
-street: "Rue des Barons de Fleckenstein"
-housenumber: 10
+street: Rue des Barons de Fleckenstein
+housenumber: "10"
 phone: "+33388805223"
 opening_hours: ""
-website: "https://www.aloderose.com/"
+website: https://www.aloderose.com/

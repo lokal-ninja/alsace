@@ -4,8 +4,8 @@ latitude: 48.58038
 longitude: 7.75659
 postcode: "67000"
 city: Strasbourg
-street: "Rue de Zurich"
-housenumber: 33
+street: Rue de Zurich
+housenumber: "33"
 phone: "+33388361087"
-opening_hours: "Mo 14:00-19:00; Tu 10:00-19:00; We-Sa 10:00-23:00"
-website: "https://www.oenosphere.com"
+opening_hours: Mo 14:00-19:00; Tu 10:00-19:00; We-Sa 10:00-23:00
+website: https://www.oenosphere.com

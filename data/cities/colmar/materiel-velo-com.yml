@@ -4,8 +4,8 @@ latitude: 48.10621
 longitude: 7.37626
 postcode: "68000"
 city: Colmar
-street: "Rue Denis Papin"
-housenumber: 8
+street: Rue Denis Papin
+housenumber: "8"
 phone: "+33368611289"
-opening_hours: "Tu-Fr 09:30-12:00,14:30-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.materiel-velo.com/"
+opening_hours: Tu-Fr 09:30-12:00,14:30-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.materiel-velo.com/

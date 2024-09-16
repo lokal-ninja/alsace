@@ -4,8 +4,8 @@ latitude: 48.5737
 longitude: 7.75844
 postcode: "67000"
 city: Strasbourg
-street: "Route du rhin"
-housenumber: 17
+street: Route du rhin
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/grand-est/strasbourg/strasbourg-cc-rivetoile/S-FRYROC516"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/grand-est/strasbourg/strasbourg-cc-rivetoile/S-FRYROC516

@@ -4,8 +4,8 @@ latitude: 48.5869
 longitude: 7.74326
 postcode: "67000"
 city: Strasbourg
-street: "Place Clément"
-housenumber: 5
-phone: "+33 8 90 21 03 49"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.le-site-de.com/logan-coiffure-strasbourg_147746.html"
+street: Place Clément
+housenumber: "5"
+phone: +33 8 90 21 03 49
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:00
+website: https://www.le-site-de.com/logan-coiffure-strasbourg_147746.html

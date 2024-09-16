@@ -1,11 +1,11 @@
 id: 29000930
-type: way
+type: node
 latitude: 48.97617
 longitude: 8.15877
 postcode: "67630"
 city: Scheibenhard
-street: "Engelgrund Auf Die Strasse"
-housenumber: 468
-phone: "+33 3 88 94 84 49"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.carrefour.fr/magasin/market-scheibenhard"
+street: Engelgrund Auf Die Strasse
+housenumber: "468"
+phone: +33 3 88 94 84 49
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.carrefour.fr/magasin/market-scheibenhard

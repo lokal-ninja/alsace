@@ -4,8 +4,8 @@ latitude: 48.57022
 longitude: 7.74928
 postcode: "67100"
 city: Strasbourg
-street: "Rue de Belfort"
-housenumber: 11
-phone: "+33 3 88 34 38 67"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:15"
+street: Rue de Belfort
+housenumber: "11"
+phone: +33 3 88 34 38 67
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:15
 website: ""

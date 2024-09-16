@@ -1,11 +1,11 @@
 id: 81886468
-type: way
+type: node
 latitude: 47.52506
 longitude: 7.47842
 postcode: "68220"
 city: Hagenthal-le-Bas
-street: "Avenue de Souprosse"
-housenumber: 22
+street: Avenue de Souprosse
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

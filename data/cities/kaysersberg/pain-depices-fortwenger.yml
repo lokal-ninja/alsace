@@ -4,8 +4,8 @@ latitude: 48.13878
 longitude: 7.26306
 postcode: "68240"
 city: Kaysersberg
-street: "Rue du Général de Gaulle"
-housenumber: 36
-phone: "+33 3 89 47 39 69"
-opening_hours: "Mo-Sa 09:30-13:00,13:30-18:30; Su 09:30-13:00,13:30-18:00"
-website: "https://www.fortwenger.fr/nos-boutiques/kaysersberg/"
+street: Rue du Général de Gaulle
+housenumber: "36"
+phone: +33 3 89 47 39 69
+opening_hours: Mo-Sa 09:30-13:00,13:30-18:30; Su 09:30-13:00,13:30-18:00
+website: https://www.fortwenger.fr/nos-boutiques/kaysersberg/

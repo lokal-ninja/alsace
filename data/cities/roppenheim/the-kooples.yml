@@ -1,11 +1,11 @@
 id: 570068179
-type: way
+type: node
 latitude: 48.83731
 longitude: 8.08739
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.thekooples.com/"
+website: https://www.thekooples.com/

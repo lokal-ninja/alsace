@@ -4,8 +4,8 @@ latitude: 48.6012
 longitude: 7.78172
 postcode: "67000"
 city: Strasbourg
-street: "Rue Boecklin"
-housenumber: 79
-phone: "+33 3 88 34 68 67"
-opening_hours: "Mo-Th 08:45-18:30; Fr 07:45-18:30; Sa 07:45-14:00"
+street: Rue Boecklin
+housenumber: "79"
+phone: +33 3 88 34 68 67
+opening_hours: Mo-Th 08:45-18:30; Fr 07:45-18:30; Sa 07:45-14:00
 website: ""

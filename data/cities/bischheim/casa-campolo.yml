@@ -4,8 +4,8 @@ latitude: 48.61382
 longitude: 7.75305
 postcode: "67800"
 city: Bischheim
-street: "Rue du Général Leclerc"
-housenumber: 11
-phone: "+33 388833970"
-opening_hours: "Tu-Fr 09:00-12:45,15:00-19:00; Sa 09:00-12:45,14:00-18:00"
-website: "https://casa-campolo.fr/"
+street: Rue du Général Leclerc
+housenumber: "11"
+phone: +33 388833970
+opening_hours: Tu-Fr 09:00-12:45,15:00-19:00; Sa 09:00-12:45,14:00-18:00
+website: https://casa-campolo.fr/

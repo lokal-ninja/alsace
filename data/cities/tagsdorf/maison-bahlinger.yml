@@ -1,11 +1,11 @@
 id: 172483587
-type: way
+type: node
 latitude: 47.61976
 longitude: 7.29737
 postcode: "68130"
 city: Tagsdorf
-street: "Rue de Belfort"
-housenumber: 4
+street: Rue de Belfort
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

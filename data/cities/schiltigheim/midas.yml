@@ -1,11 +1,11 @@
 id: 517021605
-type: way
+type: node
 latitude: 48.61023
 longitude: 7.73815
 postcode: "67300"
 city: Schiltigheim
-street: "Route du Gal de Gaulle"
-housenumber: 90
-phone: "+33 3 88 62 45 45"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30"
-website: "https://www.midas.fr/"
+street: Route du Gal de Gaulle
+housenumber: "90"
+phone: +33 3 88 62 45 45
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:30
+website: https://www.midas.fr/

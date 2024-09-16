@@ -1,11 +1,11 @@
 id: 189506220
-type: way
+type: node
 latitude: 48.7457
 longitude: 7.68766
 postcode: "67170"
 city: Bernolsheim
-street: "Route de Brumath"
-housenumber: 
+street: Route de Brumath
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

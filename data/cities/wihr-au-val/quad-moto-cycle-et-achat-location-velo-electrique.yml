@@ -1,11 +1,11 @@
 id: 65141060
-type: way
+type: node
 latitude: 48.05387
 longitude: 7.22415
 postcode: "68230"
 city: Wihr-au-Val
-street: "1A Route Nationale"
-housenumber: 
-phone: "+33 389728186"
+street: 1A Route Nationale
+housenumber: ""
+phone: +33 389728186
 opening_hours: ""
-website: "https://www.quad-moto-cycle.com"
+website: https://www.quad-moto-cycle.com

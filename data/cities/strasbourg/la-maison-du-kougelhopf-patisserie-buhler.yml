@@ -4,8 +4,8 @@ latitude: 48.5833
 longitude: 7.75047
 postcode: "67000"
 city: Strasbourg
-street: "Rue du Dôme"
-housenumber: 11
-phone: "+33 3 88 32 82 91"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-18:00; Su 09:00-18:00"
-website: "https://www.facebook.com/maisonkougelhopf"
+street: Rue du Dôme
+housenumber: "11"
+phone: +33 3 88 32 82 91
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-18:00; Su 09:00-18:00
+website: https://www.facebook.com/maisonkougelhopf

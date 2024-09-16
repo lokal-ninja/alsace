@@ -1,11 +1,11 @@
 id: 177522931
-type: way
+type: node
 latitude: 47.75569
 longitude: 7.34318
 postcode: "68100"
 city: Mulhouse
-street: "Rue Victor Kammerer"
-housenumber: 4
-phone: "+33  3 89 46 08 03"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+street: Rue Victor Kammerer
+housenumber: "4"
+phone: +33  3 89 46 08 03
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

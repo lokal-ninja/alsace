@@ -4,8 +4,8 @@ latitude: 47.88713
 longitude: 7.23472
 postcode: "68360"
 city: Soultz-Haut-Rhin
-street: "Rue des Prés"
-housenumber: 14
+street: Rue des Prés
+housenumber: "14"
 phone: ""
-opening_hours: "Mo 15:00-19:00; Tu-Fr 10:00-13:00,15:00-19:30; We,Sa 10:00-13:00"
-website: "https://www.lesbocauxdeclo.com/"
+opening_hours: Mo 15:00-19:00; Tu-Fr 10:00-13:00,15:00-19:30; We,Sa 10:00-13:00
+website: https://www.lesbocauxdeclo.com/

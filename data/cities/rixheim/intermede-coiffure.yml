@@ -1,11 +1,11 @@
 id: 259160426
-type: way
+type: node
 latitude: 47.74393
 longitude: 7.39919
 postcode: "68170"
 city: Rixheim
-street: "Grand Rue Pierre Braun"
-housenumber: 24
-phone: "+33 3 89 44 32 13"
+street: Grand Rue Pierre Braun
+housenumber: "24"
+phone: +33 3 89 44 32 13
 opening_hours: ""
-website: "http://www.intermedecoiffure.fr/salon-2955/coiffeur/24-grand-rue-68170-rixheim"
+website: http://www.intermedecoiffure.fr/salon-2955/coiffeur/24-grand-rue-68170-rixheim

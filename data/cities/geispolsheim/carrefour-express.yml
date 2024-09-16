@@ -1,11 +1,11 @@
 id: 89189292
-type: way
+type: node
 latitude: 48.51614
 longitude: 7.64674
 postcode: "67118"
 city: Geispolsheim
 street: ""
-housenumber: 
-phone: "+33 3 88 68 80 85"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:00"
-website: "https://www.carrefour.fr/magasin/express-geispolsheim"
+housenumber: ""
+phone: +33 3 88 68 80 85
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:00
+website: https://www.carrefour.fr/magasin/express-geispolsheim

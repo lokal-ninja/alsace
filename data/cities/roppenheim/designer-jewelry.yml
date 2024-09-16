@@ -1,11 +1,11 @@
 id: 570306041
-type: way
+type: node
 latitude: 48.83702
 longitude: 8.08685
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

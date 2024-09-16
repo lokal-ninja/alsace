@@ -4,8 +4,8 @@ latitude: 48.58286
 longitude: 7.74879
 postcode: "67000"
 city: Strasbourg
-street: "Rue des Orfèvres"
-housenumber: 3
+street: Rue des Orfèvres
+housenumber: "3"
 phone: "+33388327120"
-opening_hours: "Mo 11:00-19:15, Tu-Th 09:00-19:15, Fr 08:30-19:00, Sa 08:00-19:00"
-website: "https://www.maison-lorho.fr"
+opening_hours: Mo 11:00-19:15, Tu-Th 09:00-19:15, Fr 08:30-19:00, Sa 08:00-19:00
+website: https://www.maison-lorho.fr

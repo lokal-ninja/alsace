@@ -1,11 +1,11 @@
 id: 84913112
-type: way
+type: node
 latitude: 47.77645
 longitude: 7.38709
 postcode: "68390"
 city: Sausheim
-street: "Rue des Alpes"
-housenumber: 12
-phone: "+33 3 89 36 50 30"
-opening_hours: "Mo-Fr 07:00-12:00, 13:30-17:00"
+street: Rue des Alpes
+housenumber: "12"
+phone: +33 3 89 36 50 30
+opening_hours: Mo-Fr 07:00-12:00, 13:30-17:00
 website: ""

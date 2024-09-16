@@ -1,11 +1,11 @@
 id: 52436019
-type: way
+type: node
 latitude: 48.82824
 longitude: 7.75901
 postcode: "67500"
 city: Haguenau
-street: "Allée Joseph Bumb"
-housenumber: 14
+street: Allée Joseph Bumb
+housenumber: "14"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-19:00; Sa 09:00-18:30"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-19:00; Sa 09:00-18:30
 website: ""

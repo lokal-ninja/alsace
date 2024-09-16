@@ -4,8 +4,8 @@ latitude: 47.74068
 longitude: 7.29187
 postcode: "68200"
 city: Mulhouse
-street: "Rue de Belfort"
-housenumber: 258
-phone: "+33 3 89 32 38 38"
-opening_hours: "Mo-Sa 08:00-20:30; Su 00:00-24:00"
-website: "https://www.cora.fr/magasins/dornach-m-96"
+street: Rue de Belfort
+housenumber: "258"
+phone: +33 3 89 32 38 38
+opening_hours: Mo-Sa 08:00-20:30; Su 00:00-24:00
+website: https://www.cora.fr/magasins/dornach-m-96

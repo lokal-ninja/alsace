@@ -1,11 +1,11 @@
 id: 57735228
-type: way
+type: node
 latitude: 48.6221
 longitude: 7.73055
 postcode: "67800"
 city: Hœnheim
-street: "Route de Brumath"
-housenumber: 33
+street: Route de Brumath
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

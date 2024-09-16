@@ -4,8 +4,8 @@ latitude: 48.42359
 longitude: 7.66169
 postcode: "67150"
 city: Erstein
-street: "Rue du Monastère"
-housenumber: 1
-phone: "+33 3 88 98 02 55"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-17:00; Su 09:30-12:00"
-website: "https://atelier-floraisy.fr/"
+street: Rue du Monastère
+housenumber: "1"
+phone: +33 3 88 98 02 55
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-17:00; Su 09:30-12:00
+website: https://atelier-floraisy.fr/

@@ -1,11 +1,11 @@
 id: 665306361
-type: way
+type: node
 latitude: 48.52852
 longitude: 7.68654
 postcode: "67118"
 city: Geispolsheim
-street: "Route de Lingolsheim"
-housenumber: 1
+street: Route de Lingolsheim
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

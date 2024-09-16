@@ -1,11 +1,11 @@
 id: 177661261
-type: way
+type: node
 latitude: 47.75102
 longitude: 7.35378
 postcode: "68100"
 city: Mulhouse
-street: "Rue du Puits"
-housenumber: 13
-phone: "+33 3 89 45 12 81"
-opening_hours: "Mo 09:00-12:00,13:45-18:00; Tu-Fr 07:45-12:00,13:45-18:00"
+street: Rue du Puits
+housenumber: "13"
+phone: +33 3 89 45 12 81
+opening_hours: Mo 09:00-12:00,13:45-18:00; Tu-Fr 07:45-12:00,13:45-18:00
 website: ""

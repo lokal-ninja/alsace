@@ -1,11 +1,11 @@
 id: 512371467
-type: way
+type: node
 latitude: 47.9613
 longitude: 7.31614
 postcode: "68250"
 city: Rouffach
-street: "Rue Manfred Behr"
-housenumber: 2
+street: Rue Manfred Behr
+housenumber: "2"
 phone: "+3389496146"
 opening_hours: ""
-website: "https://www.garage-sauter.fr"
+website: https://www.garage-sauter.fr

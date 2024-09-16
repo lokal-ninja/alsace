@@ -4,8 +4,8 @@ latitude: 48.56955
 longitude: 7.75656
 postcode: "67100"
 city: Strasbourg
-street: "Route du Polygone"
-housenumber: 38
+street: Route du Polygone
+housenumber: "38"
 phone: ""
-opening_hours: "Tu,We,Fr,Sa 10:00-12:00, Tu-Sa 14:00-18:30"
+opening_hours: Tu,We,Fr,Sa 10:00-12:00, Tu-Sa 14:00-18:30
 website: ""

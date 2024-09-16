@@ -4,8 +4,8 @@ latitude: 48.5704
 longitude: 7.76108
 postcode: "67100"
 city: Strasbourg
-street: "Avenue Jean Jaurès"
-housenumber: 15
-phone: "+33 3 69 96 45 23"
-opening_hours: "Tu-Fr 08:00-19:00; Sa 08:00-17:00"
+street: Avenue Jean Jaurès
+housenumber: "15"
+phone: +33 3 69 96 45 23
+opening_hours: Tu-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

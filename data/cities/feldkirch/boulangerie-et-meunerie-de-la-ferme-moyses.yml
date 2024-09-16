@@ -1,11 +1,11 @@
 id: 175627170
-type: way
+type: node
 latitude: 47.86801
 longitude: 7.27812
 postcode: "68540"
 city: Feldkirch
-street: "Rue Principale"
-housenumber: 
+street: Rue Principale
+housenumber: ""
 phone: ""
-opening_hours: "Mo 10:30-12:00, Fr 16:00-19:00"
-website: "http://ferme-moyses.alsace/notre-gamme-de-pains/"
+opening_hours: Mo 10:30-12:00, Fr 16:00-19:00
+website: http://ferme-moyses.alsace/notre-gamme-de-pains/

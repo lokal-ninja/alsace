@@ -1,11 +1,11 @@
 id: 1155617589
-type: way
+type: node
 latitude: 48.77098
 longitude: 7.8452
 postcode: "67240"
 city: Bischwiller
-street: "Rue de Marienthal"
-housenumber: 1
+street: Rue de Marienthal
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

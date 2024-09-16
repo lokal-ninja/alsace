@@ -4,8 +4,9 @@ latitude: 47.83552
 longitude: 7.17824
 postcode: "68700"
 city: Wattwiller
-street: "Rue des Écoles"
-housenumber: 1
+street: Rue des Écoles
+housenumber: "1"
 phone: "+33389755367"
-opening_hours: "Tu-Fr 06:30-12:30,16:00-19:00; Sa 06:30-12:30; Su 07:00-12:00; PH off; 2021 Apr 02 off"
+opening_hours: Tu-Fr 06:30-12:30,16:00-19:00; Sa 06:30-12:30; Su 07:00-12:00; PH off;
+    2021 Apr 02 off
 website: ""

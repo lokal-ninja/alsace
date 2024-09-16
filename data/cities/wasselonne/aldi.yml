@@ -1,11 +1,11 @@
 id: 958950044
-type: way
+type: node
 latitude: 48.64676
 longitude: 7.45088
 postcode: "67310"
 city: Wasselonne
-street: "rue Pierre Heili"
-housenumber: 1
+street: rue Pierre Heili
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

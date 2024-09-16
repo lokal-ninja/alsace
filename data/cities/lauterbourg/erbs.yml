@@ -4,8 +4,9 @@ latitude: 48.97486
 longitude: 8.18068
 postcode: "67630"
 city: Lauterbourg
-street: "Rue du Général Mittelhauser"
-housenumber: 21
+street: Rue du Général Mittelhauser
+housenumber: "21"
 phone: ""
-opening_hours: "Mo 04:00-12:30; Tu-Fr 04:00-19:00; Sa 04:00-17:00; Su 07:00-12:00 Winter; Su 07:00-19:00 Summer"
+opening_hours: Mo 04:00-12:30; Tu-Fr 04:00-19:00; Sa 04:00-17:00; Su 07:00-12:00 "Winter";
+    Su 07:00-19:00 "Summer"
 website: ""

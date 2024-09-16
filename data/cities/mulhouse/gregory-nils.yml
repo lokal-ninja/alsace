@@ -4,8 +4,8 @@ latitude: 47.74665
 longitude: 7.33826
 postcode: "68100"
 city: Mulhouse
-street: "Place de la Réunion"
-housenumber: 25
-phone: "+33 3 89 66 48 22"
-opening_hours: "Mo 13:30-18:00; Tu-Sa 09:30-18:00"
-website: "https://www.planity.com/gregory-nils-68100-mulhouse"
+street: Place de la Réunion
+housenumber: "25"
+phone: +33 3 89 66 48 22
+opening_hours: Mo 13:30-18:00; Tu-Sa 09:30-18:00
+website: https://www.planity.com/gregory-nils-68100-mulhouse

@@ -1,11 +1,11 @@
 id: 375067879
-type: way
+type: node
 latitude: 47.73249
 longitude: 7.28171
 postcode: ""
 city: Morschwiller-le-Bas
-street: "Place du Renne"
-housenumber: 
+street: Place du Renne
+housenumber: ""
 phone: ""
-opening_hours: "Sa 10:00-20:00; Fr 08:00-20:00"
-website: "www.ikea.fr"
+opening_hours: Sa 10:00-20:00; Fr 08:00-20:00
+website: www.ikea.fr

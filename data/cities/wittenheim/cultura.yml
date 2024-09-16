@@ -1,11 +1,11 @@
 id: 465781784
-type: way
+type: node
 latitude: 47.79706
 longitude: 7.30398
 postcode: "68270"
 city: Wittenheim
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

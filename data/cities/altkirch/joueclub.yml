@@ -1,11 +1,11 @@
 id: 715340294
-type: way
+type: node
 latitude: 47.62637
 longitude: 7.23472
 postcode: "68130"
 city: Altkirch
-street: "Rue Sainte-Barbe"
-housenumber: 4
-phone: "+33 3 89 40 00 48"
+street: Rue Sainte-Barbe
+housenumber: "4"
+phone: +33 3 89 40 00 48
 opening_hours: ""
 website: ""

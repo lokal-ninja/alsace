@@ -4,8 +4,8 @@ latitude: 48.36126
 longitude: 7.4664
 postcode: "67680"
 city: Epfig
-street: "Rue des Alliés"
-housenumber: 5
-phone: "+33 3 88 85 50 15"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.meubles-hertrich.fr/"
+street: Rue des Alliés
+housenumber: "5"
+phone: +33 3 88 85 50 15
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.meubles-hertrich.fr/

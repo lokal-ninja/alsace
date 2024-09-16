@@ -4,8 +4,8 @@ latitude: 47.9498
 longitude: 7.37495
 postcode: "68127"
 city: Niederentzen
-street: "Rue du petit ballon"
-housenumber: 3
-phone: "+33 3 89 47 13 07"
-opening_hours: "Tu, Th, Fr 09:00-19:00; We 09:00-18:00; Sa 08:30-16:00"
-website: "https://lesailesdaurore.fr"
+street: Rue du petit ballon
+housenumber: "3"
+phone: +33 3 89 47 13 07
+opening_hours: Tu, Th, Fr 09:00-19:00; We 09:00-18:00; Sa 08:30-16:00
+website: https://lesailesdaurore.fr

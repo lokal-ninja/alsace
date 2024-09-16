@@ -1,11 +1,11 @@
 id: 147429618
-type: way
+type: node
 latitude: 47.97023
 longitude: 7.53959
 postcode: "68600"
 city: Heiteren
-street: "Route de Strasbourg"
-housenumber: 2
-phone: "+33 3 89 72 52 35"
+street: Route de Strasbourg
+housenumber: "2"
+phone: +33 3 89 72 52 35
 opening_hours: ""
-website: "http://www.institut-coiffure-heiteren.com"
+website: http://www.institut-coiffure-heiteren.com

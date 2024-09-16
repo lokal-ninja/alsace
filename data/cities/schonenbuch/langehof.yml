@@ -4,8 +4,8 @@ latitude: 47.53173
 longitude: 7.50287
 postcode: "4124"
 city: Schönenbuch
-street: "Längeweg"
-housenumber: 30
-phone: "+41 61 481 86 06"
-opening_hours: "Mo-Fr 10:00-12:00,16:00-18:00; Sa 09:00-11:00"
-website: "https://www.laengehof.ch/hofladen/"
+street: Längeweg
+housenumber: "30"
+phone: +41 61 481 86 06
+opening_hours: Mo-Fr 10:00-12:00,16:00-18:00; Sa 09:00-11:00
+website: https://www.laengehof.ch/hofladen/

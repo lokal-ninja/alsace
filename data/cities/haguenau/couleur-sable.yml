@@ -4,8 +4,9 @@ latitude: 48.81172
 longitude: 7.78597
 postcode: "67500"
 city: Haguenau
-street: "Rue des Capucins"
-housenumber: 4
-phone: "+33 3 88 53 42 21"
-opening_hours: "Tu 08:30-18:00; We 08:30-14:30; Th 08:30-18:00; We 08:30-18:00; Sa 08:00-16:00"
+street: Rue des Capucins
+housenumber: "4"
+phone: +33 3 88 53 42 21
+opening_hours: Tu 08:30-18:00; We 08:30-14:30; Th 08:30-18:00; We 08:30-18:00; Sa
+    08:00-16:00
 website: ""

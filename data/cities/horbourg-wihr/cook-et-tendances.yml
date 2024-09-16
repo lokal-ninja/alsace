@@ -4,8 +4,8 @@ latitude: 48.07488
 longitude: 7.4067
 postcode: "68180"
 city: Horbourg-Wihr
-street: "Rue de Ribeauvillé"
-housenumber: 5
-phone: "+33 3 89 41 07 51"
-opening_hours: "Mo 14:00-18:45; Tu-Fr 09:00-12:00,14:00-18:45; Sa 09:00-12:00,14:00-18:00"
+street: Rue de Ribeauvillé
+housenumber: "5"
+phone: +33 3 89 41 07 51
+opening_hours: Mo 14:00-18:45; Tu-Fr 09:00-12:00,14:00-18:45; Sa 09:00-12:00,14:00-18:00
 website: ""

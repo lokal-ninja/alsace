@@ -4,8 +4,8 @@ latitude: 48.56562
 longitude: 7.77192
 postcode: "67100"
 city: Strasbourg
-street: "Rue de Ribeauvillé"
-housenumber: 54
-phone: "+33 3 88 84 16 00"
+street: Rue de Ribeauvillé
+housenumber: "54"
+phone: +33 3 88 84 16 00
 opening_hours: ""
-website: "https://groupemobileo.fr/strasbourg-neudorf/"
+website: https://groupemobileo.fr/strasbourg-neudorf/

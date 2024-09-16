@@ -1,11 +1,11 @@
 id: 721533742
-type: way
+type: node
 latitude: 48.85474
 longitude: 8.08997
 postcode: "67930"
 city: Beinheim
-street: "Rue des Bosquets"
-housenumber: 4
-phone: "+33 3 88 07 13 99"
+street: Rue des Bosquets
+housenumber: "4"
+phone: +33 3 88 07 13 99
 opening_hours: ""
-website: "https://www.speedest.fr/"
+website: https://www.speedest.fr/

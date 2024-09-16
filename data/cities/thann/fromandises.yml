@@ -4,8 +4,8 @@ latitude: 47.81111
 longitude: 7.10102
 postcode: "68800"
 city: Thann
-street: "Place Joffre"
-housenumber: 2
-phone: "+33 9 82 50 22 28"
-opening_hours: "Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:00-17:00"
-website: "https://www.fromandises.fr/"
+street: Place Joffre
+housenumber: "2"
+phone: +33 9 82 50 22 28
+opening_hours: Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:00-17:00
+website: https://www.fromandises.fr/

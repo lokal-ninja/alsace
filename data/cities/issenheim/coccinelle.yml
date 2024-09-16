@@ -1,11 +1,11 @@
 id: 67259520
-type: way
+type: node
 latitude: 47.90353
 longitude: 7.25275
 postcode: "68500"
 city: Issenheim
-street: "Rue des Moulins"
-housenumber: 
+street: Rue des Moulins
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

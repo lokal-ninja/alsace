@@ -4,8 +4,8 @@ latitude: 48.58377
 longitude: 7.74487
 postcode: "67000"
 city: Strasbourg
-street: "Place de l'Homme de Fer"
-housenumber: 4
+street: Place de l'Homme de Fer
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu-Sa 09:00-19:00"
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:00-19:00
 website: ""

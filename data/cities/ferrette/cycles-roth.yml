@@ -4,8 +4,8 @@ latitude: 47.49149
 longitude: 7.31871
 postcode: ""
 city: Ferrette
-street: "Rue de Lucelle"
-housenumber: 3
+street: Rue de Lucelle
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "http://www.cycles-roth.fr/"
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: http://www.cycles-roth.fr/

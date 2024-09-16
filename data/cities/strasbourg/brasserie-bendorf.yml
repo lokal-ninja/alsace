@@ -4,8 +4,8 @@ latitude: 48.56647
 longitude: 7.77549
 postcode: "67100"
 city: Strasbourg
-street: "Rue Jean Jaurès"
-housenumber: 114
-phone: "+33 6 70 55 72 08"
-opening_hours: "Fr 14:00-19:00; Sa 10:00-12:00, 14:00-18:00"
-website: "https://www.brasserie-bendorf.fr"
+street: Rue Jean Jaurès
+housenumber: "114"
+phone: +33 6 70 55 72 08
+opening_hours: Fr 14:00-19:00; Sa 10:00-12:00, 14:00-18:00
+website: https://www.brasserie-bendorf.fr

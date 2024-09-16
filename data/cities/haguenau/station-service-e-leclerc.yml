@@ -4,8 +4,8 @@ latitude: 48.79885
 longitude: 7.78032
 postcode: "67500"
 city: Haguenau
-street: "Avenue du Professeur René Leriche"
-housenumber: 37
+street: Avenue du Professeur René Leriche
+housenumber: "37"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.e-leclerc.com/haguenau"
+opening_hours: 24/7
+website: https://www.e-leclerc.com/haguenau

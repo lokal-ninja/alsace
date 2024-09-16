@@ -4,8 +4,8 @@ latitude: 48.51821
 longitude: 7.70324
 postcode: "67118"
 city: Geispolsheim
-street: "Route de Lyon"
-housenumber: 3
-phone: "+33 3 88 44 64 91"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.satoriz.fr/"
+street: Route de Lyon
+housenumber: "3"
+phone: +33 3 88 44 64 91
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.satoriz.fr/

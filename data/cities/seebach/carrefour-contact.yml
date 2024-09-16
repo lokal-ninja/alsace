@@ -1,11 +1,11 @@
 id: 726827590
-type: way
+type: node
 latitude: 48.97102
 longitude: 7.99027
 postcode: "67160"
 city: Seebach
-street: "Rue de la Paix"
+street: Rue de la Paix
 housenumber: 2b
-phone: "+33 820 43 45 46"
-opening_hours: "Mo-Sa 08:00-20:00; PH closed"
-website: "https://www.carrefour.fr/magasin/contact-seebach"
+phone: +33 820 43 45 46
+opening_hours: Mo-Sa 08:00-20:00; PH closed
+website: https://www.carrefour.fr/magasin/contact-seebach

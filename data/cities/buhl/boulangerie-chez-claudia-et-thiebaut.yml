@@ -1,11 +1,11 @@
 id: 70796448
-type: way
+type: node
 latitude: 47.92921
 longitude: 7.1858
 postcode: "68530"
 city: Buhl
-street: "Rue du Cordonnier"
-housenumber: 5
+street: Rue du Cordonnier
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

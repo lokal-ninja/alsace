@@ -1,11 +1,11 @@
 id: 79611962
-type: way
+type: node
 latitude: 48.17951
 longitude: 7.30524
 postcode: "68150"
 city: Hunawihr
-street: "Rue des Vosges"
-housenumber: 7
+street: Rue des Vosges
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.giteziegler.com"
+website: http://www.giteziegler.com

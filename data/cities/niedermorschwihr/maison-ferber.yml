@@ -4,8 +4,8 @@ latitude: 48.0997
 longitude: 7.27378
 postcode: "68230"
 city: Niedermorschwihr
-street: "Rue des Trois-Épis"
-housenumber: 18
-phone: "+33 3 89 27 05 69"
-opening_hours: "Sa 07:00-18:00; Su 08:30-13:00; Tu-Fr 07:00-12:30, 14:00-18:30"
-website: "https://www.christineferber.com/"
+street: Rue des Trois-Épis
+housenumber: "18"
+phone: +33 3 89 27 05 69
+opening_hours: Sa 07:00-18:00; Su 08:30-13:00; Tu-Fr 07:00-12:30, 14:00-18:30
+website: https://www.christineferber.com/

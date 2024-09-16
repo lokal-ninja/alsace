@@ -4,8 +4,8 @@ latitude: 48.60506
 longitude: 7.75828
 postcode: "67300"
 city: Schiltigheim
-street: "Rue de la Glacière"
-housenumber: 19
-phone: "+33 3 88 83 74 74"
-opening_hours: "Tu-Fr 09:30-12:00, 13:30-18:30; Sa 09:30-12:00"
-website: "https://www.lissac-schiltigheim-wachsmannopticiens.fr/"
+street: Rue de la Glacière
+housenumber: "19"
+phone: +33 3 88 83 74 74
+opening_hours: Tu-Fr 09:30-12:00, 13:30-18:30; Sa 09:30-12:00
+website: https://www.lissac-schiltigheim-wachsmannopticiens.fr/

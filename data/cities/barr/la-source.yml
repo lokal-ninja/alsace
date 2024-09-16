@@ -4,8 +4,9 @@ latitude: 48.40113
 longitude: 7.46065
 postcode: "67140"
 city: Barr
-street: "Allée d'Europe"
-housenumber: 11
+street: Allée d'Europe
+housenumber: "11"
 phone: "+33388748435"
-opening_hours: "Mo 14:00-19:00; Tu-Th 08:30-12:30,14:00-19:00; Fr 08:30-19:00; Sa 08:30-16:30; PH off"
-website: "https://lasourcebio.com"
+opening_hours: Mo 14:00-19:00; Tu-Th 08:30-12:30,14:00-19:00; Fr 08:30-19:00; Sa 08:30-16:30;
+    PH off
+website: https://lasourcebio.com

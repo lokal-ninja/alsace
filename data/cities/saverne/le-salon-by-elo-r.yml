@@ -4,8 +4,8 @@ latitude: 48.74196
 longitude: 7.36071
 postcode: "67700"
 city: Saverne
-street: "Quai de l'Écluse"
-housenumber: 1
-phone: "+33 3 88 71 07 14"
-opening_hours: "Tu 08:30-19:00 We 08:30-14:00 Th 08:30-18h00 fr08:30-19 Sa 08:00-16:00"
+street: Quai de l'Écluse
+housenumber: "1"
+phone: +33 3 88 71 07 14
+opening_hours: Tu 08:30-19:00 We 08:30-14:00 Th 08:30-18h00 fr08:30-19 Sa 08:00-16:00
 website: ""

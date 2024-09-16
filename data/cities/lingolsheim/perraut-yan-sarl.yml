@@ -1,11 +1,11 @@
 id: 95774601
-type: way
+type: node
 latitude: 48.55497
 longitude: 7.68172
 postcode: "67380"
 city: Lingolsheim
-street: "Rue du Château"
-housenumber: 14
-phone: "+33 3 88 77 03 36"
+street: Rue du Château
+housenumber: "14"
+phone: +33 3 88 77 03 36
 opening_hours: ""
 website: ""

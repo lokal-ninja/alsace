@@ -4,8 +4,8 @@ latitude: 48.60957
 longitude: 7.75066
 postcode: "67300"
 city: Schiltigheim
-street: "Route de Bischwiller"
-housenumber: 154
-phone: "+33 3 90 46 54 19"
-opening_hours: "Mo-Sa 10:00-19:00; We 10:00-21:30; Th,Fr 10:00-22:00"
-website: "https://www.assietteduvin.com/"
+street: Route de Bischwiller
+housenumber: "154"
+phone: +33 3 90 46 54 19
+opening_hours: Mo-Sa 10:00-19:00; We 10:00-21:30; Th,Fr 10:00-22:00
+website: https://www.assietteduvin.com/

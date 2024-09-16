@@ -1,11 +1,11 @@
 id: 59039164
-type: way
+type: node
 latitude: 48.63404
 longitude: 7.72701
 postcode: "67460"
 city: Souffelweyersheim
-street: "Rue des Tuileries"
-housenumber: 5
-phone: "+33 3 88 62 03 68"
-opening_hours: "Mo 13:45-18:15; Tu-Fr 08:30-12:00,13:45-18:15; Sa 09:00-12:00"
-website: "https://www.voiture-sans-permis-strasbourg.com/"
+street: Rue des Tuileries
+housenumber: "5"
+phone: +33 3 88 62 03 68
+opening_hours: Mo 13:45-18:15; Tu-Fr 08:30-12:00,13:45-18:15; Sa 09:00-12:00
+website: https://www.voiture-sans-permis-strasbourg.com/

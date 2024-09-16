@@ -1,11 +1,11 @@
 id: 50589651
-type: way
+type: node
 latitude: 48.52203
 longitude: 7.70663
 postcode: "67400"
 city: Illkirch-Graffenstaden
-street: "Route de Lyon"
-housenumber: 269
+street: Route de Lyon
+housenumber: "269"
 phone: ""
 opening_hours: ""
-website: "https://www.grana-shop.fr/"
+website: https://www.grana-shop.fr/

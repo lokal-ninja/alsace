@@ -4,8 +4,8 @@ latitude: 48.58227
 longitude: 7.7364
 postcode: "67000"
 city: Strasbourg
-street: "Rue du Faubourg National"
-housenumber: 21
+street: Rue du Faubourg National
+housenumber: "21"
 phone: "+33388140010"
-opening_hours: "Mo-Sa 8:00-20:30; Su 9:00-12:30"
+opening_hours: Mo-Sa 8:00-20:30; Su 9:00-12:30
 website: ""

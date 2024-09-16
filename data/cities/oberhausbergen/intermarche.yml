@@ -1,11 +1,11 @@
 id: 39896386
-type: way
+type: node
 latitude: 48.60458
 longitude: 7.70781
 postcode: "67205"
 city: Oberhausbergen
-street: "Route de Mittelhausbergen"
-housenumber: 256
+street: Route de Mittelhausbergen
+housenumber: "256"
 phone: "+33388272000"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:30"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:30
 website: ""

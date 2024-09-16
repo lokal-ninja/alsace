@@ -4,8 +4,8 @@ latitude: 48.58303
 longitude: 7.75333
 postcode: "67000"
 city: Strasbourg
-street: "Rue des Frères"
-housenumber: 27
+street: Rue des Frères
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:00
 website: ""

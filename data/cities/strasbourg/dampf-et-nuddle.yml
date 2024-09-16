@@ -4,8 +4,8 @@ latitude: 48.58347
 longitude: 7.75841
 postcode: "67000"
 city: Strasbourg
-street: "quai des Pêcheurs"
-housenumber: 16
-phone: "+33 3 88 98 77 92"
-opening_hours: "Tu-Sa 09:00-19:30"
-website: "https://dampf-nuddle.fr/"
+street: quai des Pêcheurs
+housenumber: "16"
+phone: +33 3 88 98 77 92
+opening_hours: Tu-Sa 09:00-19:30
+website: https://dampf-nuddle.fr/

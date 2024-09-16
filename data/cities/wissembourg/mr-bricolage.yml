@@ -1,11 +1,11 @@
 id: 416737116
-type: way
+type: node
 latitude: 49.02707
 longitude: 7.9611
 postcode: "67160"
 city: Wissembourg
-street: "Rue du Pré aux Castors"
-housenumber: 20
+street: Rue du Pré aux Castors
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30, 13:30-19:00; Sa 08:30-18:00"
+opening_hours: Mo-Fr 08:30-12:30, 13:30-19:00; Sa 08:30-18:00
 website: ""

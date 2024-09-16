@@ -4,8 +4,8 @@ latitude: 47.58675
 longitude: 7.56268
 postcode: "68300"
 city: Saint-Louis
-street: "Rue du Temple"
-housenumber: 3
-phone: "+33 3 89 69 16 59"
+street: Rue du Temple
+housenumber: "3"
+phone: +33 3 89 69 16 59
 opening_hours: ""
-website: "https://www.pretapartir.fr/"
+website: https://www.pretapartir.fr/

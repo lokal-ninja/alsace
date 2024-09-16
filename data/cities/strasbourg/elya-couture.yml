@@ -4,8 +4,8 @@ latitude: 48.58983
 longitude: 7.74081
 postcode: "67000"
 city: Strasbourg
-street: "Rue de Bouxwiller"
-housenumber: 20
-phone: "+33 7 87 58 80 51"
-opening_hours: "Tu-Sa 09:00-17:00"
-website: "https://www.elyacouture.com"
+street: Rue de Bouxwiller
+housenumber: "20"
+phone: +33 7 87 58 80 51
+opening_hours: Tu-Sa 09:00-17:00
+website: https://www.elyacouture.com

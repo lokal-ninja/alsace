@@ -4,8 +4,8 @@ latitude: 48.58136
 longitude: 7.74714
 postcode: "67000"
 city: Strasbourg
-street: "Rue Gutenberg"
-housenumber: 14
-phone: "+33 3 74 95 15 25"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://www.edgard-opticiens.com/boutiques/strasbourg/"
+street: Rue Gutenberg
+housenumber: "14"
+phone: +33 3 74 95 15 25
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:00
+website: https://www.edgard-opticiens.com/boutiques/strasbourg/

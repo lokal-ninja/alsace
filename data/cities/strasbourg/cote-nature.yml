@@ -1,11 +1,11 @@
 id: 617814942
-type: way
+type: node
 latitude: 48.59882
 longitude: 7.73444
 postcode: "67200"
 city: Strasbourg
-street: "Place de l'Abattoir"
-housenumber: 8
+street: Place de l'Abattoir
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 09:30-19:00; Fr 09:00-19:00; Sa 09:00-18:30"
+opening_hours: Mo-Th 09:30-19:00; Fr 09:00-19:00; Sa 09:00-18:30
 website: ""

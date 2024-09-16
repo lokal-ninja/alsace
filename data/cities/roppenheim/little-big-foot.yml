@@ -1,11 +1,11 @@
 id: 570306030
-type: way
+type: node
 latitude: 48.83701
 longitude: 8.08751
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.little-big-foot.com"
+website: http://www.little-big-foot.com

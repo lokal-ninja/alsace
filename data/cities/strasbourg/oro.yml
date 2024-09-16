@@ -4,8 +4,8 @@ latitude: 48.5808
 longitude: 7.74615
 postcode: "67000"
 city: Strasbourg
-street: "Rue de la Chaîne"
-housenumber: 7
-phone: "+33 3 88 69 57 82"
-opening_hours: "Mo-Sa 12:00-14:00; We-Sa 12:00-14:00,18:30-22:00"
-website: "https://www.facebook.com/restaurantboutiqueOROstrasbourg/"
+street: Rue de la Chaîne
+housenumber: "7"
+phone: +33 3 88 69 57 82
+opening_hours: Mo-Sa 12:00-14:00; We-Sa 12:00-14:00,18:30-22:00
+website: https://www.facebook.com/restaurantboutiqueOROstrasbourg/

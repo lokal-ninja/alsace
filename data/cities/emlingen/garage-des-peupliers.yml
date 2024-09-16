@@ -1,11 +1,11 @@
 id: 173747742
-type: way
+type: node
 latitude: 47.62305
 longitude: 7.29057
 postcode: "68130"
 city: Emlingen
-street: "Rue Principale"
-housenumber: 12
+street: Rue Principale
+housenumber: "12"
 phone: "+33389078538"
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

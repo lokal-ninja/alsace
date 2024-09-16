@@ -4,8 +4,8 @@ latitude: 48.10287
 longitude: 7.3615
 postcode: "68000"
 city: Colmar
-street: "Rue Edmond Marin La Meslée"
-housenumber: 32
+street: Rue Edmond Marin La Meslée
+housenumber: "32"
 phone: "+33389209227"
 opening_hours: ""
-website: "https://www.mobalpa.fr/magasin/mobalpa-colmar"
+website: https://www.mobalpa.fr/magasin/mobalpa-colmar

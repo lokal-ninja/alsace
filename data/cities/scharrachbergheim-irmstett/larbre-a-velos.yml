@@ -1,11 +1,11 @@
 id: 139223703
-type: way
+type: node
 latitude: 48.59354
 longitude: 7.49555
 postcode: "67310"
 city: Scharrachbergheim-Irmstett
-street: "Rue du Château"
-housenumber: 4
-phone: "+33 6 52 92 95 23"
-opening_hours: "sur rendez-vous"
-website: "https://arbreavelos.fr"
+street: Rue du Château
+housenumber: "4"
+phone: +33 6 52 92 95 23
+opening_hours: '"sur rendez-vous"'
+website: https://arbreavelos.fr

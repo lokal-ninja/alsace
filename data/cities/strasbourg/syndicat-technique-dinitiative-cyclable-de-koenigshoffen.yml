@@ -4,8 +4,8 @@ latitude: 48.57766
 longitude: 7.70958
 postcode: "67200"
 city: Strasbourg
-street: "Route des Romains"
-housenumber: 91
+street: Route des Romains
+housenumber: "91"
 phone: ""
-opening_hours: "Th 18:00-20:00; Su 13:00-15:00"
-website: "https://lestick.azqs.com"
+opening_hours: Th 18:00-20:00; Su 13:00-15:00
+website: https://lestick.azqs.com

@@ -1,11 +1,11 @@
 id: 174082993
-type: way
+type: node
 latitude: 47.56078
 longitude: 7.53922
 postcode: "68220"
 city: Hégenheim
-street: "Rue des Landes"
-housenumber: 2
+street: Rue des Landes
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

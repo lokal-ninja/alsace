@@ -1,11 +1,11 @@
 id: 173610779
-type: way
+type: node
 latitude: 47.63626
 longitude: 7.4954
 postcode: "68870"
 city: Bartenheim
-street: "Rue Jean Monnet"
-housenumber: 6
+street: Rue Jean Monnet
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

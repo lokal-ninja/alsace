@@ -4,8 +4,9 @@ latitude: 48.96551
 longitude: 7.83941
 postcode: "67250"
 city: Lobsann
-street: "Route de Marienbronn"
+street: Route de Marienbronn
 housenumber: 20b
 phone: "03680340524"
-opening_hours: "Tu, Th, Fr 09:00-12:00, 14:00-18:00; Mo 14:00-18:00; We 09:00-12:00; Sa 10:00-12:00, 14:00-16:30"
+opening_hours: Tu, Th, Fr 09:00-12:00, 14:00-18:00; Mo 14:00-18:00; We 09:00-12:00;
+    Sa 10:00-12:00, 14:00-16:30
 website: ""

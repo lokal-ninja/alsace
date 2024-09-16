@@ -4,8 +4,8 @@ latitude: 48.47749
 longitude: 7.4396
 postcode: "67530"
 city: Bœrsch
-street: "Place de l'Hôtel de Ville"
-housenumber: 3
-phone: "+33 3 88 62 32 14"
+street: Place de l'Hôtel de Ville
+housenumber: "3"
+phone: +33 3 88 62 32 14
 opening_hours: ""
-website: "https://www.microstore-alsace.fr/"
+website: https://www.microstore-alsace.fr/

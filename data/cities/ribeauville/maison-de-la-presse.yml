@@ -4,8 +4,9 @@ latitude: 48.19484
 longitude: 7.31985
 postcode: "68150"
 city: Ribeauvillé
-street: "Grand'Rue"
-housenumber: 54
+street: Grand'Rue
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-We 07:00-12:00, 13:30-19:00; Th 07:00-12:00; Fr,Sa 07:00-12:00, 13:30-19:00; Su 08:00-12:00; PH 08:00-12:00, 14:00-17:00"
+opening_hours: Mo-We 07:00-12:00, 13:30-19:00; Th 07:00-12:00; Fr,Sa 07:00-12:00,
+    13:30-19:00; Su 08:00-12:00; PH 08:00-12:00, 14:00-17:00
 website: ""

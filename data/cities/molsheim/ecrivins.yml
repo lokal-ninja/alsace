@@ -4,8 +4,8 @@ latitude: 48.54175
 longitude: 7.49145
 postcode: "67120"
 city: Molsheim
-street: "Place de l'Hôtel de Ville"
-housenumber: 28
-phone: "+33 3 92 01 51 18"
-opening_hours: "Mo 09:30-12:30; Tu-Fr 09:30-12:30,13:45-18:45; Sa 10:00-18:00"
+street: Place de l'Hôtel de Ville
+housenumber: "28"
+phone: +33 3 92 01 51 18
+opening_hours: Mo 09:30-12:30; Tu-Fr 09:30-12:30,13:45-18:45; Sa 10:00-18:00
 website: ""

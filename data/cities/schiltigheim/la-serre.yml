@@ -4,8 +4,8 @@ latitude: 48.60879
 longitude: 7.73789
 postcode: "67300"
 city: Schiltigheim
-street: "Rue de Sélestat"
-housenumber: 11
+street: Rue de Sélestat
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00; Tu-Fr 14:00-19:00; Sa 14:00-18:00; Su 09:30-12:00"
-website: "https://la-serre.net"
+opening_hours: Tu-Sa 09:00-12:00; Tu-Fr 14:00-19:00; Sa 14:00-18:00; Su 09:30-12:00
+website: https://la-serre.net

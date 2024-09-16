@@ -4,8 +4,8 @@ latitude: 48.56864
 longitude: 7.76267
 postcode: "67100"
 city: Strasbourg
-street: "Rue de Rathsamhausen"
-housenumber: 9
+street: Rue de Rathsamhausen
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Th 10:00-13:00,15:00-19:00; Fr,Sa 09:00-20:00"
+opening_hours: Tu-Th 10:00-13:00,15:00-19:00; Fr,Sa 09:00-20:00
 website: ""

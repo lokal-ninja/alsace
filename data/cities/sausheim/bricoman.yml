@@ -1,11 +1,11 @@
 id: 84911315
-type: way
+type: node
 latitude: 47.77593
 longitude: 7.38497
 postcode: "68390"
 city: Sausheim
-street: "Avenue Konrad Adenauer"
-housenumber: 7
+street: Avenue Konrad Adenauer
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

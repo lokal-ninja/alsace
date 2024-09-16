@@ -1,11 +1,11 @@
 id: 57683177
-type: way
+type: node
 latitude: 48.62084
 longitude: 7.72711
 postcode: "67800"
 city: Hœnheim
-street: "Rue Émile Mathis"
-housenumber: 4
+street: Rue Émile Mathis
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:30, 13:30-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.audi-strasbourg.fr/fr.html"
+opening_hours: Mo-Fr 07:30-12:30, 13:30-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://www.audi-strasbourg.fr/fr.html

@@ -4,8 +4,9 @@ latitude: 48.56536
 longitude: 7.77155
 postcode: "67100"
 city: Strasbourg
-street: "Rue de Ribeauvillé"
-housenumber: 52
-phone: "+33 3 88 84 90 80"
-opening_hours: "Tu,We 09:00-11:45,14:00-18:00; Th 09:00-11:45,14:00-20:30; Fr 09:00-19:00; Sa 08:00-16:00"
+street: Rue de Ribeauvillé
+housenumber: "52"
+phone: +33 3 88 84 90 80
+opening_hours: Tu,We 09:00-11:45,14:00-18:00; Th 09:00-11:45,14:00-20:30; Fr 09:00-19:00;
+    Sa 08:00-16:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.61438
 longitude: 7.75242
 postcode: "67800"
 city: Bischheim
-street: "Route de Bischwiller"
-housenumber: 50
-phone: "+33 388333363"
-opening_hours: "Mo 08:00-19:00; Tu-We 08:00-18:00; Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-18:00"
+street: Route de Bischwiller
+housenumber: "50"
+phone: +33 388333363
+opening_hours: Mo 08:00-19:00; Tu-We 08:00-18:00; Th 08:00-19:00; Fr 08:00-20:00;
+    Sa 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 309195391
-type: way
+type: node
 latitude: 48.54258
 longitude: 7.50353
 postcode: "67120"
 city: Molsheim
-street: "Route de Dachstein"
-housenumber: 33
+street: Route de Dachstein
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

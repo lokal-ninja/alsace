@@ -4,8 +4,8 @@ latitude: 48.57981
 longitude: 7.71466
 postcode: "67200"
 city: Strasbourg
-street: "Route des Romains"
-housenumber: 66
+street: Route des Romains
+housenumber: "66"
 phone: "0800900343"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.lidl.fr/"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.lidl.fr/

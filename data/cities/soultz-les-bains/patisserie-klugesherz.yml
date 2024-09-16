@@ -1,11 +1,11 @@
 id: 232738043
-type: way
+type: node
 latitude: 48.5685
 longitude: 7.49228
 postcode: "67120"
 city: Soultz-les-Bains
-street: "Rue de Molsheim"
-housenumber: 43
-phone: "+33 3 88 38 19 97"
-opening_hours: "Tu-Fr 06:15-19:00; Sa 06:15-17:00; Su 07:00-12:30"
-website: "https://www.patisserie-klugesherz.com/"
+street: Rue de Molsheim
+housenumber: "43"
+phone: +33 3 88 38 19 97
+opening_hours: Tu-Fr 06:15-19:00; Sa 06:15-17:00; Su 07:00-12:30
+website: https://www.patisserie-klugesherz.com/

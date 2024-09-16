@@ -1,11 +1,11 @@
 id: 173904753
-type: way
+type: node
 latitude: 47.57794
 longitude: 7.53356
 postcode: "68220"
 city: Hésingue
-street: "Rue de Saint-Louis"
-housenumber: 104
+street: Rue de Saint-Louis
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:30"
-website: "https://www.bio-cotenature.fr/actualites/hesingue"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:30
+website: https://www.bio-cotenature.fr/actualites/hesingue

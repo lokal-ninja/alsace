@@ -1,11 +1,11 @@
 id: 180126032
-type: way
+type: node
 latitude: 47.80884
 longitude: 7.10917
 postcode: "68800"
 city: Thann
-street: "Rue Gay Lussac"
-housenumber: 1
-phone: "+33 3 89 37 11 95"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 08:30-12:00,14:00-17:30"
+street: Rue Gay Lussac
+housenumber: "1"
+phone: +33 3 89 37 11 95
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 08:30-12:00,14:00-17:30
 website: ""

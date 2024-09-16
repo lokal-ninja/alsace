@@ -4,8 +4,8 @@ latitude: 47.5859
 longitude: 7.56215
 postcode: "68300"
 city: Saint-Louis
-street: "Croisée des Lys"
-housenumber: 6
+street: Croisée des Lys
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:45; Sa 09:00-12:45"
-website: "https://www.distribus.com/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:45; Sa 09:00-12:45
+website: https://www.distribus.com/

@@ -1,11 +1,11 @@
 id: 132128617
-type: way
+type: node
 latitude: 48.90318
 longitude: 7.96844
 postcode: "67690"
 city: Hatten
-street: "Rue Principale"
-housenumber: 17
-phone: "+33 3 88 86 68 68"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:00"
-website: "https://www.carrefour.fr/magasin/contact-hatten"
+street: Rue Principale
+housenumber: "17"
+phone: +33 3 88 86 68 68
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:00
+website: https://www.carrefour.fr/magasin/contact-hatten

@@ -4,8 +4,8 @@ latitude: 48.58147
 longitude: 7.75289
 postcode: "67000"
 city: Strasbourg
-street: "Rue de la Râpe"
-housenumber: 6
+street: Rue de la Râpe
+housenumber: "6"
 phone: "+33388245006"
-opening_hours: "We-Sa 10:00-13:00,14:30-18:00; Su 10:00-13:00"
-website: "https://aufonddujardin.fr"
+opening_hours: We-Sa 10:00-13:00,14:30-18:00; Su 10:00-13:00
+website: https://aufonddujardin.fr

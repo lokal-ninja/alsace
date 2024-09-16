@@ -4,8 +4,8 @@ latitude: 47.53043
 longitude: 7.3416
 postcode: "68480"
 city: Durmenach
-street: "Rue du Chemin de Fer"
-housenumber: 43
-phone: "+33 3 89258122"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-17:30"
+street: Rue du Chemin de Fer
+housenumber: "43"
+phone: +33 3 89258122
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-17:30
 website: ""

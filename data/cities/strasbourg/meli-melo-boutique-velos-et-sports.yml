@@ -4,8 +4,8 @@ latitude: 48.60417
 longitude: 7.7137
 postcode: "67200"
 city: Strasbourg
-street: "Rue Albert Einstein"
-housenumber: 7
+street: Rue Albert Einstein
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Tu 13:00-16:30; We 9:00-12:00,13:00-16:30; Th-Fr 13:00-16:30"
-website: "https://emmausmundo.com/boutique-sport-et-velos-meli-melo-cronenbourg/"
+opening_hours: Mo-Tu 13:00-16:30; We 9:00-12:00,13:00-16:30; Th-Fr 13:00-16:30
+website: https://emmausmundo.com/boutique-sport-et-velos-meli-melo-cronenbourg/

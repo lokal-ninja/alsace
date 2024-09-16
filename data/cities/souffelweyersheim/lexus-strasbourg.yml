@@ -1,11 +1,11 @@
 id: 59096794
-type: way
+type: node
 latitude: 48.62286
 longitude: 7.72677
 postcode: "67460"
 city: Souffelweyersheim
-street: "Rue des Tuileries"
-housenumber: 42
+street: Rue des Tuileries
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

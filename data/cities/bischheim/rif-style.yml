@@ -4,8 +4,8 @@ latitude: 48.61402
 longitude: 7.75448
 postcode: "67800"
 city: Bischheim
-street: "Rue Nationale"
-housenumber: 2
-phone: "+33 6 47 23 20 51"
-opening_hours: "Mo-Sa 09:30-12:00, 14:00-18:00"
+street: Rue Nationale
+housenumber: "2"
+phone: +33 6 47 23 20 51
+opening_hours: Mo-Sa 09:30-12:00, 14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 98188649
-type: way
+type: node
 latitude: 47.60584
 longitude: 7.5413
 postcode: "68300"
 city: Saint-Louis
-street: "Rue de Seville"
-housenumber: 1
+street: Rue de Seville
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:30-20:00, Fr 08:30-20:30, Sa 08:00-20:00"
+opening_hours: Mo-Th 08:30-20:00, Fr 08:30-20:30, Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 79200633
-type: way
+type: node
 latitude: 48.10976
 longitude: 7.28658
 postcode: "68230"
 city: Katzenthal
-street: "Rue du Tokay"
-housenumber: 
-phone: "+33 3 89 27 24 50"
+street: Rue du Tokay
+housenumber: ""
+phone: +33 3 89 27 24 50
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.94979
 longitude: 7.37487
 postcode: "68127"
 city: Niederentzen
-street: "Rue du petit ballon"
-housenumber: 3
-phone: "+33 3 89 49 91 04"
-opening_hours: "Tu 09:00-12:00, 13:30-19:00; We 09:00-18:00; Th 09:00-12:00, 13:30-19:00; Fr 09:00-19:00; Sa 08:30-16:00"
+street: Rue du petit ballon
+housenumber: "3"
+phone: +33 3 89 49 91 04
+opening_hours: Tu 09:00-12:00, 13:30-19:00; We 09:00-18:00; Th 09:00-12:00, 13:30-19:00;
+    Fr 09:00-19:00; Sa 08:30-16:00
 website: ""

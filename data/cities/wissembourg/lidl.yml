@@ -1,11 +1,11 @@
 id: 466428303
-type: way
+type: node
 latitude: 49.03067
 longitude: 7.95447
 postcode: "67160"
 city: Wissembourg
-street: "Allée des Peuplier"
-housenumber: 2
+street: Allée des Peuplier
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/wissembourg/4-allee-des-peupliers/"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/wissembourg/4-allee-des-peupliers/

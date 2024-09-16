@@ -1,11 +1,11 @@
 id: 1080896003
-type: way
+type: node
 latitude: 48.65239
 longitude: 7.60486
 postcode: "67370"
 city: Truchtersheim
-street: "Rue du Martzenberg"
-housenumber: 2
+street: Rue du Martzenberg
+housenumber: "2"
 phone: "0388696044"
 opening_hours: ""
 website: ""

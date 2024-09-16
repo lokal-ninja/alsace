@@ -4,8 +4,8 @@ latitude: 48.64996
 longitude: 7.73105
 postcode: "67116"
 city: Reichstett
-street: "Boulevard des enseignes"
-housenumber: 6
-phone: "+33 3 59 28 97 73"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.paul.fr/stores/vendenheim"
+street: Boulevard des enseignes
+housenumber: "6"
+phone: +33 3 59 28 97 73
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.paul.fr/stores/vendenheim

@@ -4,8 +4,8 @@ latitude: 48.60413
 longitude: 7.71366
 postcode: "67200"
 city: Strasbourg
-street: "Rue Albert Einstein"
-housenumber: 7
+street: Rue Albert Einstein
+housenumber: "7"
 phone: ""
-opening_hours: "Tu, Th 18:00-20:00"
-website: "https://www.acroduvelo.fr/"
+opening_hours: Tu, Th 18:00-20:00
+website: https://www.acroduvelo.fr/

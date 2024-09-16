@@ -1,11 +1,11 @@
 id: 104961855
-type: way
+type: node
 latitude: 48.7479
 longitude: 7.38211
 postcode: "67700"
 city: Monswiller
-street: "Rue de Steinbourg"
-housenumber: 23
+street: Rue de Steinbourg
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

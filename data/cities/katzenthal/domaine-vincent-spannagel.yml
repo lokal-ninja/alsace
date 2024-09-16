@@ -1,11 +1,11 @@
 id: 79200592
-type: way
+type: node
 latitude: 48.10836
 longitude: 7.28224
 postcode: "68230"
 city: Katzenthal
-street: "Rue du Vignoble"
-housenumber: 82
+street: Rue du Vignoble
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

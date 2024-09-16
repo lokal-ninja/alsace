@@ -1,11 +1,11 @@
 id: 570306035
-type: way
+type: node
 latitude: 48.83699
 longitude: 8.08739
 postcode: "67480"
 city: Roppenheim
-street: "Route de l'Europe"
-housenumber: 1
+street: Route de l'Europe
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.eden-park.fr/"
+website: https://www.eden-park.fr/
