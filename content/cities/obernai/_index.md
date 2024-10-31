@@ -1,6 +1,6 @@
 ---
 title: Obernai
 url: /obernai/
-latitude: 48.462
-longitude: 7.48
+latitude: 48.465
+longitude: 7.49
 ---
