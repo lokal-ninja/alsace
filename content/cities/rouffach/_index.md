@@ -1,6 +1,6 @@
 ---
 title: Rouffach
 url: /rouffach/
-latitude: 47.957
-longitude: 7.3
+latitude: 47.967
+longitude: 7.303
 ---

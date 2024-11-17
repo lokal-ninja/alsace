@@ -2,5 +2,5 @@
 title: Soufflenheim
 url: /soufflenheim/
 latitude: 48.83
-longitude: 7.965
+longitude: 7.955
 ---
