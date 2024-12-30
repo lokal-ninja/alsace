@@ -1,6 +1,6 @@
 ---
 title: Geispolsheim
 url: /geispolsheim/
-latitude: 48.523
-longitude: 7.691
+latitude: 48.518
+longitude: 7.703
 ---
