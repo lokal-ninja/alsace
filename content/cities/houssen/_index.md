@@ -1,6 +1,6 @@
 ---
 title: Houssen
 url: /houssen/
-latitude: 48.125
-longitude: 7.364
+latitude: 48.127
+longitude: 7.362
 ---
