@@ -1,6 +1,6 @@
 ---
 title: Monswiller
 url: /monswiller/
-latitude: 48.748
-longitude: 7.382
+latitude: 48.741
+longitude: 7.388
 ---
