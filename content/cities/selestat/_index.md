@@ -1,6 +1,6 @@
 ---
 title: Sélestat
 url: /selestat/
-latitude: 48.259
-longitude: 7.423
+latitude: 48.273
+longitude: 7.461
 ---

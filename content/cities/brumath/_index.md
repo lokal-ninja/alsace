@@ -1,6 +1,6 @@
 ---
 title: Brumath
 url: /brumath/
-latitude: 48.729
-longitude: 7.714
+latitude: 48.721
+longitude: 7.696
 ---
