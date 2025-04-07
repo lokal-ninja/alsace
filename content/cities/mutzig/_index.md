@@ -1,6 +1,6 @@
 ---
 title: Mutzig
 url: /mutzig/
-latitude: 48.532
-longitude: 7.47
+latitude: 48.537
+longitude: 7.448
 ---

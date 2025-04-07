@@ -1,6 +1,6 @@
 ---
 title: Gertwiller
 url: /gertwiller/
-latitude: 48.413
-longitude: 7.472
+latitude: 48.416
+longitude: 7.476
 ---

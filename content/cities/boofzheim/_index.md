@@ -1,6 +1,6 @@
 ---
 title: Boofzheim
 url: /boofzheim/
-latitude: 48.329
-longitude: 7.69
+latitude: 48.328
+longitude: 7.692
 ---

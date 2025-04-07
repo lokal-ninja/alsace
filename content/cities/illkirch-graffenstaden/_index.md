@@ -1,6 +1,6 @@
 ---
 title: Illkirch-Graffenstaden
 url: /illkirch-graffenstaden/
-latitude: 48.526
-longitude: 7.71
+latitude: 48.544
+longitude: 7.738
 ---

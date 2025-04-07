@@ -1,6 +1,6 @@
 ---
 title: Hœnheim
 url: /hoenheim/
-latitude: 48.62
-longitude: 7.727
+latitude: 48.63
+longitude: 7.762
 ---

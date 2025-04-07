@@ -1,6 +1,6 @@
 ---
 title: Ostwald
 url: /ostwald/
-latitude: 48.555
-longitude: 7.712
+latitude: 48.549
+longitude: 7.71
 ---

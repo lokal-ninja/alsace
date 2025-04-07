@@ -1,6 +1,6 @@
 ---
 title: Oberhausbergen
 url: /oberhausbergen/
-latitude: 48.605
-longitude: 7.687
+latitude: 48.604
+longitude: 7.706
 ---
