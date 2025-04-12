@@ -1,5 +1,5 @@
 ---
-title: "Patisserie Duweck"
+title: "Pâtisserie Duweck"
 url: /haguenau/patisserie-duweck/
 shop: pâtisserie
 ---

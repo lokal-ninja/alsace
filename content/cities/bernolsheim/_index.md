@@ -1,6 +1,6 @@
 ---
 title: Bernolsheim
 url: /bernolsheim/
-latitude: 48.746
-longitude: 7.688
+latitude: 48.747
+longitude: 7.689
 ---

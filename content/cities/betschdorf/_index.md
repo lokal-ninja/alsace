@@ -1,6 +1,6 @@
 ---
 title: Betschdorf
 url: /betschdorf/
-latitude: 48.899
-longitude: 7.901
+latitude: 48.897
+longitude: 7.912
 ---
