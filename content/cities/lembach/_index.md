@@ -1,6 +1,6 @@
 ---
 title: Lembach
 url: /lembach/
-latitude: 48.993
-longitude: 7.782
+latitude: 49.008
+longitude: 7.789
 ---
