@@ -1,6 +1,6 @@
 ---
 title: Bouxwiller
 url: /bouxwiller/
-latitude: 48.83
-longitude: 7.49
+latitude: 48.831
+longitude: 7.492
 ---
