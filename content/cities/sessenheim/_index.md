@@ -1,6 +1,6 @@
 ---
 title: Sessenheim
 url: /sessenheim/
-latitude: 48.79
-longitude: 7.984
+latitude: 48.799
+longitude: 7.987
 ---

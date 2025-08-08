@@ -1,6 +1,6 @@
 ---
 title: Mundolsheim
 url: /mundolsheim/
-latitude: 48.653
-longitude: 7.726
+latitude: 48.641
+longitude: 7.729
 ---

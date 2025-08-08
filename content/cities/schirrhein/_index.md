@@ -1,6 +1,6 @@
 ---
 title: Schirrhein
 url: /schirrhein/
-latitude: 48.8
-longitude: 7.901
+latitude: 48.802
+longitude: 7.908
 ---

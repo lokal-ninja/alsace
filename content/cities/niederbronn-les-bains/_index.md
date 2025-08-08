@@ -1,6 +1,6 @@
 ---
 title: Niederbronn-les-Bains
 url: /niederbronn-les-bains/
-latitude: 48.952
-longitude: 7.64
+latitude: 48.951
+longitude: 7.644
 ---
