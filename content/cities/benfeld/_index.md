@@ -1,6 +1,6 @@
 ---
 title: Benfeld
 url: /benfeld/
-latitude: 48.369
-longitude: 7.595
+latitude: 48.372
+longitude: 7.593
 ---
