@@ -1,6 +1,6 @@
 ---
 title: Strasbourg
 url: /strasbourg/
-latitude: 48.562
-longitude: 7.695
+latitude: 48.569
+longitude: 7.763
 ---
