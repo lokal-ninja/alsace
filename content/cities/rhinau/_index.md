@@ -1,6 +1,6 @@
 ---
 title: Rhinau
 url: /rhinau/
-latitude: 48.319
+latitude: 48.318
 longitude: 7.704
 ---
