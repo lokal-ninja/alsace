@@ -1,6 +1,6 @@
 ---
 title: Lingolsheim
 url: /lingolsheim/
-latitude: 48.555
-longitude: 7.682
+latitude: 48.564
+longitude: 7.691
 ---
