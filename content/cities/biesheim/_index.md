@@ -1,6 +1,6 @@
 ---
 title: Biesheim
 url: /biesheim/
-latitude: 48.042
+latitude: 48.041
 longitude: 7.545
 ---
