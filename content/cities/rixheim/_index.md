@@ -1,6 +1,6 @@
 ---
 title: Rixheim
 url: /rixheim/
-latitude: 47.747
-longitude: 7.401
+latitude: 47.748
+longitude: 7.404
 ---
