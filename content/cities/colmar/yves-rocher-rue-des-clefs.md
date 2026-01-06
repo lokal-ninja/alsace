@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
-url: /colmar/yves-rocher-rue-du-buhlfeld/
+url: /colmar/yves-rocher-rue-des-clefs/
 shop: beauté
 ---
