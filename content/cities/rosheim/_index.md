@@ -1,6 +1,6 @@
 ---
 title: Rosheim
 url: /rosheim/
-latitude: 48.496
-longitude: 7.47
+latitude: 48.501
+longitude: 7.484
 ---
