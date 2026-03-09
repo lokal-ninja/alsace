@@ -7,5 +7,6 @@ city: Strasbourg
 street: Rue de Zurich
 housenumber: "40"
 phone: "+33781252047"
-opening_hours: ""
+opening_hours: Mo 15:30-19:00; Tu 14:00-19:00; We,Fr 11:00-19:00; Th 14:30-19:00;
+    Sa 14:00-18:30
 website: ""
