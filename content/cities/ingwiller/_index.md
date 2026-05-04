@@ -1,6 +1,6 @@
 ---
 title: Ingwiller
 url: /ingwiller/
-latitude: 48.874
+latitude: 48.872
 longitude: 7.479
 ---
