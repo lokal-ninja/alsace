@@ -1,5 +1,5 @@
 ---
-title: "materiel-velo.com"
+title: "Materiel-velo.com"
 url: /colmar/materiel-velo-com/
 shop: vélo
 ---
