@@ -1,6 +1,6 @@
 ---
 title: Bartenheim
 url: /bartenheim/
-latitude: 47.636
-longitude: 7.494
+latitude: 47.634
+longitude: 7.478
 ---
