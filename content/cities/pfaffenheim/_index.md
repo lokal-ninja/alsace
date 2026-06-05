@@ -1,6 +1,6 @@
 ---
 title: Pfaffenheim
 url: /pfaffenheim/
-latitude: 47.99
-longitude: 7.293
+latitude: 47.984
+longitude: 7.287
 ---
