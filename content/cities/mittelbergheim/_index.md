@@ -1,6 +1,6 @@
 ---
 title: Mittelbergheim
 url: /mittelbergheim/
-latitude: 48.397
-longitude: 7.442
+latitude: 48.395
+longitude: 7.445
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baumstal"
-url: /baldenheim/baumstal/
+url: /selestat/baumstal/
 shop: articles ménagers
 ---
