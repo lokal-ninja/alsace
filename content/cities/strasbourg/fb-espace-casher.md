@@ -1,5 +1,5 @@
 ---
 title: "FB Espace Casher"
 url: /strasbourg/fb-espace-casher/
-shop: commodité
+shop: supermarché
 ---
