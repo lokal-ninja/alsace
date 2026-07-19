@@ -1,6 +1,6 @@
 ---
 title: Kaltenhouse
 url: /kaltenhouse/
-latitude: 48.79
-longitude: 7.835
+latitude: 48.791
+longitude: 7.838
 ---

@@ -7,5 +7,6 @@ city: Ostwald
 street: Rue du Général Leclerc
 housenumber: "52"
 phone: "+33388305501"
-opening_hours: Mo-We 6:00-19:30; Th 6:30-19:30; Fr 6:30-19:30; Sa 6:30-14:00; Su 6:30-12:30
+opening_hours: Mo-We 06:00-19:30; Th 06:30-19:30; Fr 06:30-19:30; Sa 06:30-14:00;
+    Su 06:30-12:30
 website: ""

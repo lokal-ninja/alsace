@@ -1,6 +1,6 @@
 ---
 title: Ebersheim
 url: /ebersheim/
-latitude: 48.304
-longitude: 7.499
+latitude: 48.308
+longitude: 7.502
 ---
