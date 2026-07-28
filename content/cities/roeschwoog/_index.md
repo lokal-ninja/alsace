@@ -1,6 +1,6 @@
 ---
-title: Rœschwoog
+title: Roeschwoog
 url: /roeschwoog/
-latitude: 48.826
-longitude: 8.039
+latitude: 48.83
+longitude: 8.038
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marmoutier
 url: /marmoutier/
-latitude: 48.717
-longitude: 7.372
+latitude: 48.689
+longitude: 7.383
 ---

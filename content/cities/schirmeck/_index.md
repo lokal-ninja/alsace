@@ -1,6 +1,6 @@
 ---
 title: Schirmeck
 url: /schirmeck/
-latitude: 48.479
-longitude: 7.213
+latitude: 48.478
+longitude: 7.218
 ---

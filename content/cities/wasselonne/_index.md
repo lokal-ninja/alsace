@@ -1,6 +1,6 @@
 ---
 title: Wasselonne
 url: /wasselonne/
-latitude: 48.634
-longitude: 7.461
+latitude: 48.637
+longitude: 7.449
 ---

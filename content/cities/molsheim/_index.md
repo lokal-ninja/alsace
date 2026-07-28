@@ -1,6 +1,6 @@
 ---
 title: Molsheim
 url: /molsheim/
-latitude: 48.544
-longitude: 7.492
+latitude: 48.542
+longitude: 7.493
 ---

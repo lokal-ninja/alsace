@@ -1,6 +1,6 @@
 ---
-title: Hœrdt
+title: Hoerdt
 url: /hoerdt/
-latitude: 48.699
-longitude: 7.779
+latitude: 48.698
+longitude: 7.786
 ---

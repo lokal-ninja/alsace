@@ -1,6 +1,6 @@
 ---
 title: Wingersheim les Quatre Bans
 url: /wingersheim-les-quatre-bans/
-latitude: 48.721
-longitude: 7.641
+latitude: 48.709
+longitude: 7.631
 ---

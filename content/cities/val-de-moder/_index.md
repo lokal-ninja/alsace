@@ -1,6 +1,6 @@
 ---
-title: Val de Moder
+title: Val-de-Moder
 url: /val-de-moder/
-latitude: 48.843
-longitude: 7.603
+latitude: 48.844
+longitude: 7.613
 ---

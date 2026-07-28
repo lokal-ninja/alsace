@@ -1,6 +1,6 @@
 ---
 title: Sundhouse
 url: /sundhouse/
-latitude: 48.252
-longitude: 7.597
+latitude: 48.251
+longitude: 7.603
 ---

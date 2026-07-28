@@ -1,6 +1,6 @@
 ---
 title: Lampertheim
 url: /lampertheim/
-latitude: 48.649
-longitude: 7.721
+latitude: 48.652
+longitude: 7.702
 ---

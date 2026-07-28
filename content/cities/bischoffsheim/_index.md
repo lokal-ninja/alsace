@@ -1,6 +1,6 @@
 ---
 title: Bischoffsheim
 url: /bischoffsheim/
-latitude: 48.489
-longitude: 7.504
+latitude: 48.487
+longitude: 7.489
 ---
