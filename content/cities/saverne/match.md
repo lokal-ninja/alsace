@@ -1,5 +1,5 @@
 ---
 title: "Match"
 url: /saverne/match/
-shop: shop
+shop: supermarché
 ---

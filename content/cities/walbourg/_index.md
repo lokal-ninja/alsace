@@ -1,6 +1,6 @@
 ---
 title: Walbourg
 url: /walbourg/
-latitude: 48.886
-longitude: 7.797
+latitude: 48.887
+longitude: 7.789
 ---

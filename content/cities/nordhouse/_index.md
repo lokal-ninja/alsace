@@ -1,6 +1,6 @@
 ---
 title: Nordhouse
 url: /nordhouse/
-latitude: 48.447
-longitude: 7.682
+latitude: 48.449
+longitude: 7.67
 ---

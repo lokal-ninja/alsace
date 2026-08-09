@@ -1,6 +1,6 @@
 ---
 title: Wisches
 url: /wisches/
-latitude: 48.508
-longitude: 7.272
+latitude: 48.509
+longitude: 7.27
 ---

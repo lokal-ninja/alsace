@@ -1,6 +1,6 @@
 ---
 title: Haguenau
 url: /haguenau/
-latitude: 48.815
-longitude: 7.791
+latitude: 48.814
+longitude: 7.792
 ---

@@ -1,12 +1,11 @@
-id: 7253468369
+id: 11765943244
 type: node
-latitude: 48.07292
-longitude: 7.35965
+latitude: 48.07437
+longitude: 7.35676
 postcode: "68000"
 city: Colmar
-street: Rue de Turenne
-housenumber: "34"
-phone: +33 3 89 23 72 11
-opening_hours: Mo-Tu,Th-Fr 06:00-13:00,15:00-18:00; We,Sa 06:00-13:00; Su 07:00-12:00;
-    PH closed
+street: Grand'Rue
+housenumber: "84"
+phone: ""
+opening_hours: Mo,Tu,Th,Fr 08:00-14:00; Sa 08:00-15:00
 website: ""
