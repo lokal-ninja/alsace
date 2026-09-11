@@ -1,6 +1,6 @@
 ---
 title: Breuschwickersheim
 url: /breuschwickersheim/
-latitude: 48.579
-longitude: 7.604
+latitude: 48.58
+longitude: 7.611
 ---

@@ -6,6 +6,7 @@ postcode: "67630"
 city: Lauterbourg
 street: Rue du Général Mittelhauser
 housenumber: "22"
-phone: ""
-opening_hours: Mo-Fr 04:30-18:00; Sa 06:00-17:00; Su 07:00-12:00
+phone: +33 3 88 54 62 31
+opening_hours: Mo-Fr 04:30-18:00; Sa 06:00-17:00; Su 07:00-12:00 "Winter"; Su 07:00-19:00
+    "Summer"
 website: ""

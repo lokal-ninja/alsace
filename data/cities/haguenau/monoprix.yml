@@ -7,5 +7,5 @@ city: Haguenau
 street: Rue Georges Clemenceau
 housenumber: "2"
 phone: +33 3 88 93 94 40
-opening_hours: Mo-Sa 09:00-19:00
+opening_hours: Mo-Tu 09:00-19:00; We 09:00-18:00; Th-Sa 09:00-19:00; Su 19:00-19:00
 website: https://www.monoprix.fr/231.html
