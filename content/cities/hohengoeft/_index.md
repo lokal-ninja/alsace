@@ -1,6 +1,6 @@
 ---
 title: Hohengœft
 url: /hohengoeft/
-latitude: 48.661
-longitude: 7.471
+latitude: 48.662
+longitude: 7.472
 ---

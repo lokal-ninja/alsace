@@ -1,6 +1,6 @@
 ---
 title: Weitbruch
 url: /weitbruch/
-latitude: 48.753
-longitude: 7.776
+latitude: 48.751
+longitude: 7.773
 ---

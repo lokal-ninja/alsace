@@ -1,6 +1,6 @@
 ---
 title: Eckwersheim
 url: /eckwersheim/
-latitude: 48.687
-longitude: 7.691
+latitude: 48.679
+longitude: 7.697
 ---

@@ -7,5 +7,5 @@ city: Rosheim
 street: Rue du Général de Gaulle
 housenumber: "100"
 phone: ""
-opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+opening_hours: Tu,We,Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Th 09:00-12:00,15:30-19:00
 website: ""
