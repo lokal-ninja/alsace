@@ -7,6 +7,5 @@ city: Strasbourg
 street: Rond Point de l'Esplanade
 housenumber: "2"
 phone: ""
-opening_hours: Mo 10:00-18:00; Tu 09:30-19:00; Th 09:30-19:00; Fr 10:00-18:00; Sa
-    09:00-17:00
+opening_hours: Mo-Tu 10:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-17:00
 website: ""

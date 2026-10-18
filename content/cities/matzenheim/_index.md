@@ -1,6 +1,6 @@
 ---
 title: Matzenheim
 url: /matzenheim/
-latitude: 48.396
-longitude: 7.622
+latitude: 48.392
+longitude: 7.618
 ---
