@@ -1,6 +1,6 @@
 ---
 title: Saverne
 url: /saverne/
-latitude: 48.735
-longitude: 7.365
+latitude: 48.742
+longitude: 7.357
 ---
