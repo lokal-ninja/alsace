@@ -1,6 +1,6 @@
 ---
 title: Kaysersberg
 url: /kaysersberg/
-latitude: 48.14
-longitude: 7.26
+latitude: 48.139
+longitude: 7.265
 ---

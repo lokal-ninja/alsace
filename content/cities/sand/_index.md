@@ -1,6 +1,6 @@
 ---
 title: Sand
 url: /sand/
-latitude: 48.382
+latitude: 48.384
 longitude: 7.611
 ---

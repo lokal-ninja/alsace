@@ -1,6 +1,6 @@
 ---
 title: Barr
 url: /barr/
-latitude: 48.405
-longitude: 7.453
+latitude: 48.407
+longitude: 7.451
 ---
