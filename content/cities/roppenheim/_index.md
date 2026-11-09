@@ -1,6 +1,6 @@
 ---
 title: Roppenheim
 url: /roppenheim/
-latitude: 48.845
-longitude: 8.051
+latitude: 48.848
+longitude: 8.059
 ---
