@@ -7,5 +7,6 @@ city: Schweighouse-sur-Moder
 street: Rue de la Sablière
 housenumber: "13"
 phone: +33 3 88 06 16 26
-opening_hours: ""
+opening_hours: Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00,13:30-17:00; Sa 08:00-12:00;
+    Su off
 website: ""
